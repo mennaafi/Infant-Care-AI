@@ -1,0 +1,4000 @@
+spO2,Temperature,Heart Rate,Breathing Rate,Health State
+85,38.97,75,11,Highly Diseased
+88,37.8,101,25,Diseased
+92,38.04,109,22,Diseased
+96,36.62,136,59,Normal
+95,36.98,153,37,Normal
+89,37.93,102,26,Diseased
+93,38.02,105,27,Diseased
+83,39.08,84,14,Highly Diseased
+97,37.17,140,42,Normal
+90,37.97,118,22,Diseased
+88,38.4,110,26,Diseased
+97,36.63,121,43,Normal
+88,37.95,104,28,Diseased
+88,37.76,106,24,Diseased
+84,39.09,65,15,Highly Diseased
+80,39.46,94,13,Highly Diseased
+95,37.16,130,44,Normal
+97,37.11,147,34,Normal
+97,36.67,127,41,Normal
+85,39.48,86,15,Highly Diseased
+85,39.91,83,10,Highly Diseased
+90,38.24,109,22,Diseased
+93,38.49,105,27,Diseased
+99,37.01,134,47,Normal
+88,38.47,109,20,Diseased
+98,36.84,121,51,Normal
+88,37.68,105,20,Diseased
+86,38.97,97,10,Highly Diseased
+95,36.92,147,43,Normal
+95,36.81,148,55,Normal
+88,37.8,109,24,Diseased
+95,36.9,154,53,Normal
+91,37.97,114,20,Diseased
+88,38.38,107,22,Diseased
+96,37.22,130,36,Normal
+97,36.61,130,47,Normal
+88,38.06,110,25,Diseased
+85,39.97,81,11,Highly Diseased
+96,37.07,131,33,Normal
+89,37.96,117,20,Diseased
+92,38.38,108,22,Diseased
+81,38.74,81,14,Highly Diseased
+96,37.23,124,31,Normal
+85,38.63,72,12,Highly Diseased
+93,37.91,109,26,Diseased
+89,37.76,114,20,Diseased
+98,37.34,150,55,Normal
+98,36.64,120,40,Normal
+92,38.23,104,22,Diseased
+88,38.4,104,23,Diseased
+86,39.34,72,12,Highly Diseased
+96,37.37,134,52,Normal
+89,37.93,111,28,Diseased
+80,38.92,65,18,Highly Diseased
+97,36.73,139,30,Normal
+91,38.26,105,24,Diseased
+95,37.24,132,36,Normal
+89,37.97,115,28,Diseased
+85,39.97,87,16,Highly Diseased
+93,38.28,108,24,Diseased
+93,37.84,112,23,Diseased
+99,37.22,148,53,Normal
+91,38.03,114,24,Diseased
+84,39.5,61,15,Highly Diseased
+86,39.35,63,15,Highly Diseased
+96,36.61,136,43,Normal
+92,38.46,106,28,Diseased
+84,39.89,87,10,Highly Diseased
+89,38.18,102,28,Diseased
+89,37.74,118,23,Diseased
+86,38.79,73,11,Highly Diseased
+95,36.6,151,52,Normal
+83,39.26,67,12,Highly Diseased
+82,38.79,62,10,Highly Diseased
+99,37.44,139,52,Normal
+82,39.69,92,12,Highly Diseased
+90,37.71,111,20,Diseased
+96,36.58,147,35,Normal
+98,36.7,150,44,Normal
+96,36.76,132,56,Normal
+90,38.36,118,27,Diseased
+83,39.16,94,13,Highly Diseased
+99,37.07,154,45,Normal
+92,38.0,101,21,Diseased
+89,38.33,102,25,Diseased
+95,37.13,156,43,Normal
+90,38.18,114,20,Diseased
+91,38.47,116,27,Diseased
+89,37.6,105,28,Diseased
+97,36.53,138,40,Normal
+80,39.49,77,17,Highly Diseased
+93,37.66,103,27,Diseased
+81,39.58,87,14,Highly Diseased
+92,37.89,102,22,Diseased
+98,37.01,125,54,Normal
+83,38.72,87,10,Highly Diseased
+97,36.86,129,52,Normal
+85,39.92,65,15,Highly Diseased
+85,38.73,66,12,Highly Diseased
+80,39.78,61,10,Highly Diseased
+88,37.79,116,24,Diseased
+99,36.58,127,49,Normal
+97,37.2,131,35,Normal
+91,37.83,111,22,Diseased
+85,39.86,88,15,Highly Diseased
+92,37.69,118,28,Diseased
+93,37.81,115,20,Diseased
+97,36.98,129,48,Normal
+93,37.71,110,24,Diseased
+81,39.17,63,17,Highly Diseased
+88,37.79,112,25,Diseased
+96,36.89,130,53,Normal
+81,39.61,78,13,Highly Diseased
+91,38.0,103,26,Diseased
+98,37.07,155,39,Normal
+88,37.74,100,28,Diseased
+99,36.61,120,44,Normal
+81,39.08,98,14,Highly Diseased
+80,39.0,68,18,Highly Diseased
+92,37.9,111,26,Diseased
+82,39.18,80,17,Highly Diseased
+85,38.74,68,14,Highly Diseased
+81,39.71,63,11,Highly Diseased
+85,38.87,69,18,Highly Diseased
+82,38.61,67,12,Highly Diseased
+98,36.95,125,36,Normal
+80,38.97,71,16,Highly Diseased
+82,38.78,62,13,Highly Diseased
+98,36.73,147,51,Normal
+88,37.66,113,26,Diseased
+81,39.67,79,13,Highly Diseased
+98,37.41,125,42,Normal
+88,37.93,101,24,Diseased
+82,38.74,84,12,Highly Diseased
+92,38.27,118,24,Diseased
+95,37.27,130,45,Normal
+84,39.02,84,13,Highly Diseased
+95,36.66,155,59,Normal
+81,39.08,77,14,Highly Diseased
+99,37.37,141,31,Normal
+89,37.66,116,26,Diseased
+88,37.86,107,27,Diseased
+88,38.5,103,23,Diseased
+95,36.82,142,59,Normal
+80,39.81,71,13,Highly Diseased
+83,39.29,70,13,Highly Diseased
+83,39.31,71,15,Highly Diseased
+99,36.84,123,46,Normal
+80,39.09,76,13,Highly Diseased
+93,37.75,118,23,Diseased
+81,39.24,95,18,Highly Diseased
+81,38.77,75,13,Highly Diseased
+91,37.69,110,23,Diseased
+91,38.47,102,21,Diseased
+97,37.2,154,46,Normal
+95,37.05,127,37,Normal
+97,37.09,140,36,Normal
+97,37.19,134,44,Normal
+86,39.97,87,16,Highly Diseased
+81,38.74,78,12,Highly Diseased
+96,37.26,120,33,Normal
+81,38.77,88,12,Highly Diseased
+84,39.2,81,10,Highly Diseased
+85,39.61,64,14,Highly Diseased
+97,37.31,136,30,Normal
+90,37.8,110,24,Diseased
+88,38.43,112,20,Diseased
+92,38.22,118,22,Diseased
+95,37.02,155,59,Normal
+84,38.87,73,15,Highly Diseased
+98,36.94,133,32,Normal
+97,36.91,154,51,Normal
+83,38.72,85,18,Highly Diseased
+86,39.31,98,18,Highly Diseased
+98,37.29,130,41,Normal
+90,38.06,106,26,Diseased
+97,36.83,134,49,Normal
+97,37.48,127,35,Normal
+89,37.73,100,21,Diseased
+85,38.69,70,16,Highly Diseased
+93,37.87,111,25,Diseased
+91,37.84,112,28,Diseased
+97,36.77,158,30,Normal
+93,38.29,108,26,Diseased
+86,39.92,80,14,Highly Diseased
+85,38.69,68,17,Highly Diseased
+98,37.03,130,42,Normal
+95,36.85,129,33,Normal
+93,38.35,100,23,Diseased
+85,38.75,75,10,Highly Diseased
+95,37.36,148,52,Normal
+99,36.52,157,33,Normal
+98,37.14,147,39,Normal
+98,37.19,146,38,Normal
+98,36.53,128,33,Normal
+81,38.7,84,13,Highly Diseased
+95,36.6,142,51,Normal
+96,37.32,155,43,Normal
+96,37.17,143,31,Normal
+89,38.28,111,23,Diseased
+83,39.77,81,14,Highly Diseased
+92,38.15,118,27,Diseased
+80,38.96,98,14,Highly Diseased
+86,39.91,83,16,Highly Diseased
+97,37.25,135,47,Normal
+80,39.51,85,17,Highly Diseased
+85,39.42,71,18,Highly Diseased
+80,39.54,63,18,Highly Diseased
+84,38.84,72,13,Highly Diseased
+92,37.62,116,22,Diseased
+98,37.24,126,48,Normal
+81,39.4,89,11,Highly Diseased
+89,37.75,102,20,Diseased
+84,38.86,63,12,Highly Diseased
+86,39.38,94,11,Highly Diseased
+97,36.99,151,52,Normal
+88,37.94,111,26,Diseased
+95,36.88,120,52,Normal
+92,38.39,102,28,Diseased
+82,39.77,71,15,Highly Diseased
+80,38.83,69,18,Highly Diseased
+99,37.42,157,34,Normal
+93,38.26,118,27,Diseased
+81,38.91,83,12,Highly Diseased
+89,38.29,108,25,Diseased
+92,37.91,116,24,Diseased
+80,39.23,67,12,Highly Diseased
+91,38.17,113,24,Diseased
+96,37.45,152,59,Normal
+85,39.71,92,18,Highly Diseased
+85,39.99,82,10,Highly Diseased
+81,38.92,84,10,Highly Diseased
+84,39.78,90,14,Highly Diseased
+86,38.69,74,17,Highly Diseased
+82,39.82,79,18,Highly Diseased
+82,39.09,92,12,Highly Diseased
+96,37.06,135,49,Normal
+95,37.42,120,45,Normal
+89,37.76,101,20,Diseased
+83,39.45,95,13,Highly Diseased
+96,37.36,143,31,Normal
+85,38.75,75,13,Highly Diseased
+80,39.37,79,14,Highly Diseased
+86,39.48,80,10,Highly Diseased
+83,39.0,66,17,Highly Diseased
+84,39.86,79,16,Highly Diseased
+98,37.48,148,37,Normal
+99,36.51,143,44,Normal
+97,36.76,138,50,Normal
+97,37.08,136,45,Normal
+98,36.91,134,30,Normal
+92,37.98,117,26,Diseased
+91,38.32,114,21,Diseased
+91,37.75,111,20,Diseased
+88,38.48,114,24,Diseased
+88,37.98,106,24,Diseased
+99,37.24,148,39,Normal
+82,39.85,78,14,Highly Diseased
+96,36.68,143,55,Normal
+93,38.4,104,20,Diseased
+82,39.66,87,18,Highly Diseased
+88,37.69,107,24,Diseased
+89,38.34,101,26,Diseased
+99,37.16,147,37,Normal
+89,38.15,106,25,Diseased
+97,37.41,142,32,Normal
+99,36.86,157,35,Normal
+83,39.65,60,15,Highly Diseased
+90,37.9,111,20,Diseased
+91,37.74,115,23,Diseased
+86,38.62,64,12,Highly Diseased
+89,38.27,105,23,Diseased
+85,39.94,66,12,Highly Diseased
+91,37.82,117,28,Diseased
+90,38.29,106,22,Diseased
+85,38.89,86,15,Highly Diseased
+83,39.21,94,16,Highly Diseased
+83,39.26,61,15,Highly Diseased
+92,38.21,113,26,Diseased
+97,37.48,145,51,Normal
+96,36.66,122,41,Normal
+96,36.82,130,44,Normal
+95,37.04,145,31,Normal
+83,38.72,92,13,Highly Diseased
+91,38.01,115,20,Diseased
+89,37.9,118,25,Diseased
+98,36.98,144,41,Normal
+98,36.78,123,42,Normal
+91,38.09,114,21,Diseased
+82,38.94,80,17,Highly Diseased
+97,37.2,138,37,Normal
+83,39.35,80,16,Highly Diseased
+92,38.06,100,20,Diseased
+88,38.19,112,27,Diseased
+98,37.34,159,45,Normal
+92,38.12,112,21,Diseased
+96,36.98,140,51,Normal
+95,37.37,124,31,Normal
+93,38.49,111,23,Diseased
+92,38.47,106,23,Diseased
+91,37.65,112,26,Diseased
+82,39.94,90,10,Highly Diseased
+81,38.72,90,11,Highly Diseased
+80,38.84,90,10,Highly Diseased
+98,37.29,148,43,Normal
+97,36.99,149,52,Normal
+85,39.63,79,10,Highly Diseased
+88,38.0,104,27,Diseased
+95,37.37,158,41,Normal
+88,38.47,103,23,Diseased
+99,36.86,129,56,Normal
+89,38.11,110,21,Diseased
+96,36.98,155,54,Normal
+97,36.74,154,32,Normal
+90,38.23,100,21,Diseased
+99,36.81,151,36,Normal
+80,39.1,62,13,Highly Diseased
+84,39.85,60,16,Highly Diseased
+99,36.75,124,45,Normal
+99,37.19,147,41,Normal
+93,38.34,115,24,Diseased
+86,39.99,69,15,Highly Diseased
+80,39.57,71,16,Highly Diseased
+96,37.35,133,58,Normal
+93,38.07,118,27,Diseased
+96,37.46,134,53,Normal
+89,38.39,116,21,Diseased
+80,39.62,78,15,Highly Diseased
+92,38.27,118,27,Diseased
+83,39.35,79,17,Highly Diseased
+95,36.76,127,40,Normal
+98,36.81,149,54,Normal
+98,37.06,150,35,Normal
+85,39.33,93,17,Highly Diseased
+82,39.89,81,14,Highly Diseased
+84,39.33,87,13,Highly Diseased
+81,38.78,97,13,Highly Diseased
+98,37.38,147,30,Normal
+91,37.88,108,20,Diseased
+95,36.57,156,31,Normal
+99,36.5,154,39,Normal
+90,37.64,108,26,Diseased
+91,37.7,115,21,Diseased
+96,36.58,156,38,Normal
+82,39.04,63,12,Highly Diseased
+99,36.9,121,38,Normal
+99,36.67,136,34,Normal
+80,39.66,84,10,Highly Diseased
+83,39.45,96,15,Highly Diseased
+85,39.6,92,16,Highly Diseased
+90,38.3,111,22,Diseased
+88,37.99,116,27,Diseased
+92,38.34,101,20,Diseased
+88,37.94,101,25,Diseased
+82,38.74,89,15,Highly Diseased
+97,37.49,154,57,Normal
+81,39.3,85,16,Highly Diseased
+98,36.73,150,40,Normal
+85,39.52,84,18,Highly Diseased
+97,36.66,131,56,Normal
+96,36.65,143,30,Normal
+96,37.26,152,58,Normal
+95,36.62,137,56,Normal
+90,38.26,113,22,Diseased
+96,36.73,133,57,Normal
+96,37.15,135,40,Normal
+96,37.41,137,40,Normal
+98,36.58,146,34,Normal
+82,38.81,88,16,Highly Diseased
+81,38.66,80,12,Highly Diseased
+93,38.41,114,23,Diseased
+85,38.89,87,10,Highly Diseased
+95,36.95,127,31,Normal
+93,38.13,101,27,Diseased
+83,39.53,84,10,Highly Diseased
+93,38.03,111,23,Diseased
+84,38.81,60,11,Highly Diseased
+82,39.44,64,10,Highly Diseased
+98,37.45,125,49,Normal
+90,37.85,116,21,Diseased
+83,39.47,69,10,Highly Diseased
+84,38.77,65,18,Highly Diseased
+93,38.39,115,27,Diseased
+97,36.77,133,31,Normal
+92,38.21,117,24,Diseased
+89,37.72,118,20,Diseased
+88,38.06,102,21,Diseased
+81,39.9,63,17,Highly Diseased
+86,38.75,74,11,Highly Diseased
+93,38.27,100,24,Diseased
+89,38.27,109,22,Diseased
+97,36.58,138,56,Normal
+80,39.44,74,15,Highly Diseased
+80,39.79,84,16,Highly Diseased
+84,38.67,73,18,Highly Diseased
+99,37.15,127,47,Normal
+89,37.82,114,26,Diseased
+81,39.76,61,11,Highly Diseased
+90,37.69,102,24,Diseased
+82,39.97,72,17,Highly Diseased
+85,39.05,64,17,Highly Diseased
+84,39.31,79,15,Highly Diseased
+88,37.9,116,22,Diseased
+93,37.6,109,26,Diseased
+97,36.56,153,42,Normal
+98,36.97,152,32,Normal
+90,37.88,109,26,Diseased
+98,36.8,123,32,Normal
+99,37.03,130,45,Normal
+80,39.12,67,17,Highly Diseased
+99,36.94,149,34,Normal
+95,36.62,149,47,Normal
+93,38.49,116,21,Diseased
+86,39.88,88,11,Highly Diseased
+93,38.18,110,28,Diseased
+88,37.75,106,28,Diseased
+95,36.6,141,46,Normal
+82,38.99,65,15,Highly Diseased
+97,37.32,130,33,Normal
+98,36.63,151,56,Normal
+97,36.68,125,53,Normal
+93,38.09,114,28,Diseased
+88,37.7,109,22,Diseased
+91,38.38,102,27,Diseased
+89,37.81,111,23,Diseased
+82,39.78,92,12,Highly Diseased
+99,37.41,156,37,Normal
+96,37.17,122,48,Normal
+82,39.34,72,15,Highly Diseased
+96,36.5,157,34,Normal
+93,38.43,102,21,Diseased
+80,39.99,80,16,Highly Diseased
+80,38.77,98,12,Highly Diseased
+97,37.01,139,54,Normal
+90,37.75,113,27,Diseased
+86,38.63,76,12,Highly Diseased
+82,38.75,71,11,Highly Diseased
+95,36.8,138,53,Normal
+97,37.15,159,57,Normal
+88,37.72,116,26,Diseased
+85,39.25,66,17,Highly Diseased
+99,36.81,136,50,Normal
+84,39.72,86,13,Highly Diseased
+88,37.82,110,22,Diseased
+98,37.01,120,53,Normal
+82,39.18,88,11,Highly Diseased
+95,36.57,153,39,Normal
+98,36.73,134,45,Normal
+81,38.97,71,17,Highly Diseased
+95,36.84,130,52,Normal
+89,37.83,106,27,Diseased
+98,36.76,152,55,Normal
+82,39.4,89,10,Highly Diseased
+88,38.38,118,22,Diseased
+81,39.79,93,11,Highly Diseased
+81,39.67,74,14,Highly Diseased
+93,38.13,108,26,Diseased
+81,38.96,89,13,Highly Diseased
+91,37.89,115,26,Diseased
+82,38.85,96,16,Highly Diseased
+85,39.94,92,16,Highly Diseased
+88,37.79,105,25,Diseased
+99,36.54,152,40,Normal
+98,37.02,123,43,Normal
+92,37.7,110,27,Diseased
+95,37.25,151,42,Normal
+91,38.07,108,25,Diseased
+97,36.82,132,35,Normal
+92,38.16,115,28,Diseased
+97,37.4,152,47,Normal
+85,39.5,74,13,Highly Diseased
+93,38.32,111,28,Diseased
+91,38.05,117,28,Diseased
+85,39.84,74,17,Highly Diseased
+93,38.22,106,21,Diseased
+91,38.06,101,27,Diseased
+98,37.13,133,30,Normal
+88,38.1,105,28,Diseased
+86,39.25,62,18,Highly Diseased
+86,39.75,74,16,Highly Diseased
+92,37.88,102,28,Diseased
+85,38.9,86,16,Highly Diseased
+98,37.32,154,50,Normal
+99,36.69,153,32,Normal
+89,38.48,100,21,Diseased
+93,38.43,108,28,Diseased
+92,37.81,110,27,Diseased
+91,37.7,117,23,Diseased
+89,37.65,108,25,Diseased
+96,37.42,122,31,Normal
+98,37.12,122,48,Normal
+99,37.27,153,57,Normal
+84,39.78,76,13,Highly Diseased
+97,36.79,137,51,Normal
+81,39.95,73,14,Highly Diseased
+82,39.08,76,16,Highly Diseased
+92,38.43,100,24,Diseased
+85,39.38,94,10,Highly Diseased
+88,38.36,115,27,Diseased
+96,36.77,158,55,Normal
+83,39.72,93,11,Highly Diseased
+99,36.91,125,41,Normal
+80,39.62,64,13,Highly Diseased
+93,38.41,101,20,Diseased
+98,37.33,159,39,Normal
+97,36.94,141,36,Normal
+99,36.85,122,43,Normal
+86,39.32,68,18,Highly Diseased
+99,37.07,142,58,Normal
+90,38.41,105,21,Diseased
+99,36.8,139,54,Normal
+88,37.62,117,20,Diseased
+92,37.81,108,26,Diseased
+80,38.66,66,13,Highly Diseased
+88,38.37,101,25,Diseased
+96,37.13,154,31,Normal
+97,36.6,155,33,Normal
+89,37.95,106,25,Diseased
+84,38.76,81,11,Highly Diseased
+96,37.1,153,37,Normal
+90,38.15,115,27,Diseased
+97,37.02,158,44,Normal
+97,37.26,156,46,Normal
+98,36.52,135,44,Normal
+82,39.21,72,16,Highly Diseased
+90,38.17,115,24,Diseased
+98,36.63,141,33,Normal
+93,38.23,105,23,Diseased
+95,36.65,130,35,Normal
+80,39.86,72,10,Highly Diseased
+93,38.31,118,24,Diseased
+82,39.59,94,15,Highly Diseased
+81,38.93,71,17,Highly Diseased
+84,38.95,71,13,Highly Diseased
+82,39.98,92,10,Highly Diseased
+91,37.83,105,24,Diseased
+92,38.33,113,23,Diseased
+96,37.0,130,51,Normal
+84,38.7,64,13,Highly Diseased
+84,39.62,66,11,Highly Diseased
+90,37.63,102,21,Diseased
+88,38.06,111,20,Diseased
+95,36.93,139,53,Normal
+99,37.32,139,49,Normal
+93,38.33,102,22,Diseased
+99,36.77,154,48,Normal
+85,39.51,73,14,Highly Diseased
+85,38.88,92,14,Highly Diseased
+96,37.02,129,59,Normal
+88,37.98,107,23,Diseased
+97,36.76,149,35,Normal
+97,37.22,133,51,Normal
+89,38.48,110,24,Diseased
+98,37.48,155,44,Normal
+91,38.28,110,24,Diseased
+84,39.2,65,15,Highly Diseased
+93,38.41,105,23,Diseased
+88,37.84,103,20,Diseased
+99,37.04,129,55,Normal
+98,37.32,136,39,Normal
+88,38.0,107,27,Diseased
+83,39.32,63,14,Highly Diseased
+93,37.87,103,22,Diseased
+97,36.78,138,42,Normal
+89,37.95,114,28,Diseased
+97,36.94,126,42,Normal
+86,39.94,67,11,Highly Diseased
+83,39.15,86,18,Highly Diseased
+80,39.35,89,18,Highly Diseased
+81,39.64,75,11,Highly Diseased
+95,37.13,128,59,Normal
+92,37.78,113,25,Diseased
+92,38.22,117,28,Diseased
+99,37.05,125,59,Normal
+90,38.21,100,20,Diseased
+95,37.01,123,51,Normal
+95,36.64,148,46,Normal
+95,37.23,123,55,Normal
+98,37.17,150,47,Normal
+85,39.16,95,16,Highly Diseased
+91,37.71,108,20,Diseased
+98,36.73,123,55,Normal
+85,39.02,80,11,Highly Diseased
+91,37.79,111,20,Diseased
+91,38.36,112,24,Diseased
+99,37.11,121,33,Normal
+86,39.79,69,15,Highly Diseased
+86,39.19,84,16,Highly Diseased
+86,38.9,73,12,Highly Diseased
+97,36.68,147,41,Normal
+99,36.66,132,36,Normal
+97,37.39,156,36,Normal
+97,36.82,143,30,Normal
+97,36.96,147,39,Normal
+91,37.8,103,27,Diseased
+90,38.39,103,27,Diseased
+80,39.77,84,11,Highly Diseased
+80,39.63,84,16,Highly Diseased
+90,38.28,114,23,Diseased
+92,37.93,107,22,Diseased
+97,37.11,144,44,Normal
+99,37.34,131,59,Normal
+89,38.29,115,21,Diseased
+93,37.92,101,22,Diseased
+83,38.72,91,15,Highly Diseased
+91,38.34,113,27,Diseased
+93,37.8,115,25,Diseased
+93,37.99,101,28,Diseased
+99,37.16,132,57,Normal
+89,37.64,111,23,Diseased
+95,37.23,144,51,Normal
+98,37.01,147,57,Normal
+84,39.57,96,18,Highly Diseased
+98,36.85,154,47,Normal
+97,37.36,134,44,Normal
+99,36.9,135,51,Normal
+98,36.62,139,54,Normal
+97,36.69,131,51,Normal
+99,37.13,145,51,Normal
+90,37.64,109,26,Diseased
+96,37.12,143,45,Normal
+97,37.22,152,37,Normal
+88,38.33,107,20,Diseased
+92,37.69,111,28,Diseased
+93,38.46,110,26,Diseased
+95,37.18,146,40,Normal
+81,38.95,72,18,Highly Diseased
+96,37.3,125,38,Normal
+99,37.35,146,44,Normal
+99,36.92,153,46,Normal
+89,37.88,115,26,Diseased
+88,38.27,103,23,Diseased
+92,38.46,114,24,Diseased
+99,37.14,130,42,Normal
+89,38.18,114,20,Diseased
+97,37.14,138,49,Normal
+91,37.86,116,20,Diseased
+92,38.31,113,20,Diseased
+95,36.59,148,48,Normal
+92,37.94,117,23,Diseased
+85,39.64,70,14,Highly Diseased
+97,37.13,133,37,Normal
+99,37.16,129,46,Normal
+97,37.07,136,53,Normal
+97,37.44,156,56,Normal
+85,39.03,91,15,Highly Diseased
+92,37.63,117,21,Diseased
+81,39.52,83,14,Highly Diseased
+90,38.15,116,24,Diseased
+99,37.16,157,58,Normal
+83,38.67,92,16,Highly Diseased
+89,37.81,113,21,Diseased
+82,39.7,90,17,Highly Diseased
+83,39.95,76,17,Highly Diseased
+89,38.37,100,23,Diseased
+98,37.25,126,55,Normal
+97,36.52,121,37,Normal
+99,36.62,150,36,Normal
+84,39.3,62,12,Highly Diseased
+99,37.43,131,45,Normal
+84,39.1,93,18,Highly Diseased
+95,37.01,145,46,Normal
+86,39.65,75,10,Highly Diseased
+85,39.13,85,13,Highly Diseased
+83,39.34,97,11,Highly Diseased
+97,36.75,123,47,Normal
+81,39.35,78,15,Highly Diseased
+88,37.97,102,28,Diseased
+88,38.17,114,27,Diseased
+83,39.32,81,11,Highly Diseased
+91,37.67,103,22,Diseased
+93,38.24,108,20,Diseased
+99,37.18,122,56,Normal
+84,39.25,67,16,Highly Diseased
+95,37.5,132,59,Normal
+93,37.78,115,26,Diseased
+98,37.44,137,59,Normal
+98,36.95,131,52,Normal
+89,38.49,116,22,Diseased
+80,39.57,82,15,Highly Diseased
+86,38.85,68,13,Highly Diseased
+98,37.11,121,46,Normal
+85,39.55,80,10,Highly Diseased
+85,38.83,62,12,Highly Diseased
+92,37.6,106,23,Diseased
+88,38.25,101,23,Diseased
+95,37.24,131,34,Normal
+85,39.19,66,13,Highly Diseased
+83,39.31,61,15,Highly Diseased
+89,37.96,117,20,Diseased
+81,39.69,89,12,Highly Diseased
+82,39.88,67,18,Highly Diseased
+88,38.35,109,23,Diseased
+84,39.92,61,18,Highly Diseased
+88,38.42,109,27,Diseased
+92,38.34,115,25,Diseased
+95,36.84,153,38,Normal
+82,39.53,69,12,Highly Diseased
+83,39.09,97,14,Highly Diseased
+83,39.21,60,13,Highly Diseased
+90,37.98,112,22,Diseased
+81,38.72,80,12,Highly Diseased
+96,36.73,129,52,Normal
+97,37.48,125,49,Normal
+98,37.14,140,54,Normal
+99,37.02,147,43,Normal
+85,38.96,80,18,Highly Diseased
+99,36.89,153,46,Normal
+99,36.84,141,35,Normal
+91,37.82,109,25,Diseased
+80,39.49,75,16,Highly Diseased
+92,38.36,102,26,Diseased
+93,38.49,108,25,Diseased
+88,37.78,115,22,Diseased
+86,38.93,96,11,Highly Diseased
+82,39.43,94,17,Highly Diseased
+97,36.69,151,55,Normal
+89,38.3,117,26,Diseased
+81,39.47,71,13,Highly Diseased
+92,37.93,112,27,Diseased
+84,39.31,70,14,Highly Diseased
+98,36.7,134,37,Normal
+83,39.64,67,18,Highly Diseased
+90,38.49,100,28,Diseased
+83,39.62,92,15,Highly Diseased
+84,38.75,63,18,Highly Diseased
+97,37.48,124,51,Normal
+98,36.64,123,59,Normal
+93,38.43,108,22,Diseased
+99,36.95,153,31,Normal
+84,39.86,66,11,Highly Diseased
+88,38.44,102,27,Diseased
+90,38.47,107,27,Diseased
+95,36.66,149,33,Normal
+96,37.14,120,42,Normal
+88,37.61,109,20,Diseased
+99,37.24,141,31,Normal
+83,39.19,85,14,Highly Diseased
+86,39.1,97,14,Highly Diseased
+81,38.61,93,12,Highly Diseased
+84,38.95,62,10,Highly Diseased
+91,38.02,114,27,Diseased
+86,38.87,91,16,Highly Diseased
+82,38.88,82,17,Highly Diseased
+83,39.46,68,18,Highly Diseased
+97,37.35,153,55,Normal
+89,38.29,102,21,Diseased
+89,38.41,107,21,Diseased
+85,39.12,65,13,Highly Diseased
+93,37.96,101,22,Diseased
+91,38.3,112,27,Diseased
+93,38.37,106,22,Diseased
+83,39.95,65,16,Highly Diseased
+97,37.17,131,54,Normal
+97,36.86,140,39,Normal
+88,38.18,118,22,Diseased
+99,37.09,137,53,Normal
+97,37.23,150,36,Normal
+99,37.18,147,40,Normal
+90,38.47,109,20,Diseased
+80,39.13,65,10,Highly Diseased
+85,39.87,93,14,Highly Diseased
+92,37.88,112,23,Diseased
+82,39.37,71,10,Highly Diseased
+93,37.89,113,23,Diseased
+99,37.12,144,36,Normal
+81,39.19,61,18,Highly Diseased
+93,38.27,116,28,Diseased
+80,38.86,91,14,Highly Diseased
+86,39.31,94,17,Highly Diseased
+91,38.21,108,21,Diseased
+80,39.33,82,14,Highly Diseased
+89,37.63,100,27,Diseased
+90,37.98,109,26,Diseased
+88,37.87,105,28,Diseased
+84,39.4,74,18,Highly Diseased
+80,39.66,62,13,Highly Diseased
+88,38.34,106,28,Diseased
+97,37.43,154,56,Normal
+98,37.22,123,39,Normal
+95,37.02,136,30,Normal
+98,36.51,151,58,Normal
+82,39.77,65,13,Highly Diseased
+99,37.33,152,50,Normal
+95,37.25,156,35,Normal
+93,38.31,111,23,Diseased
+97,36.8,128,45,Normal
+96,36.99,132,31,Normal
+88,37.92,107,26,Diseased
+84,38.73,61,18,Highly Diseased
+89,38.28,112,21,Diseased
+96,37.47,149,48,Normal
+99,37.29,124,33,Normal
+91,38.32,110,20,Diseased
+92,38.09,112,28,Diseased
+90,37.78,117,25,Diseased
+99,36.52,152,38,Normal
+90,37.77,109,28,Diseased
+99,37.18,123,39,Normal
+88,38.47,101,22,Diseased
+88,38.48,104,20,Diseased
+97,37.08,133,34,Normal
+93,38.13,109,22,Diseased
+96,37.44,141,34,Normal
+99,37.04,127,48,Normal
+92,37.63,103,26,Diseased
+86,39.02,87,17,Highly Diseased
+92,37.7,118,23,Diseased
+95,36.63,121,32,Normal
+96,37.47,135,48,Normal
+89,37.98,115,21,Diseased
+91,38.5,103,25,Diseased
+96,36.77,156,37,Normal
+92,38.29,107,21,Diseased
+81,38.74,72,11,Highly Diseased
+95,36.72,152,59,Normal
+97,36.8,139,35,Normal
+81,39.92,92,10,Highly Diseased
+81,38.72,89,13,Highly Diseased
+85,39.2,62,11,Highly Diseased
+98,36.94,141,30,Normal
+99,37.39,130,35,Normal
+84,39.17,89,12,Highly Diseased
+90,37.64,118,20,Diseased
+92,37.73,106,25,Diseased
+99,37.41,155,41,Normal
+97,36.69,120,58,Normal
+82,38.9,85,17,Highly Diseased
+83,39.84,70,17,Highly Diseased
+84,39.44,97,16,Highly Diseased
+93,38.1,104,22,Diseased
+92,37.94,112,21,Diseased
+89,38.36,103,28,Diseased
+97,36.98,144,38,Normal
+82,39.9,88,18,Highly Diseased
+91,38.04,114,25,Diseased
+88,38.36,110,27,Diseased
+82,38.86,68,18,Highly Diseased
+88,37.95,109,24,Diseased
+85,38.93,81,13,Highly Diseased
+88,38.32,112,27,Diseased
+91,38.12,101,25,Diseased
+96,36.85,150,55,Normal
+85,39.89,96,14,Highly Diseased
+93,38.22,115,20,Diseased
+90,37.98,102,23,Diseased
+90,38.33,107,22,Diseased
+95,36.9,138,35,Normal
+91,38.49,111,20,Diseased
+83,38.78,69,14,Highly Diseased
+82,38.84,86,16,Highly Diseased
+86,39.99,81,17,Highly Diseased
+98,37.23,141,49,Normal
+86,39.77,62,14,Highly Diseased
+98,37.06,137,35,Normal
+81,39.21,73,17,Highly Diseased
+86,39.77,87,13,Highly Diseased
+82,40.0,74,17,Highly Diseased
+80,39.26,60,11,Highly Diseased
+99,37.32,145,46,Normal
+81,39.07,85,15,Highly Diseased
+93,38.21,102,25,Diseased
+80,38.64,71,16,Highly Diseased
+82,39.53,90,14,Highly Diseased
+99,36.62,129,55,Normal
+85,38.61,95,10,Highly Diseased
+91,38.23,101,22,Diseased
+84,39.06,69,18,Highly Diseased
+89,37.87,113,21,Diseased
+88,38.28,108,23,Diseased
+89,38.23,110,24,Diseased
+80,39.14,73,18,Highly Diseased
+84,39.52,87,16,Highly Diseased
+99,36.96,151,39,Normal
+88,37.97,112,23,Diseased
+93,38.09,105,20,Diseased
+89,37.61,100,23,Diseased
+89,37.61,113,22,Diseased
+95,36.52,159,59,Normal
+89,37.86,106,21,Diseased
+90,38.32,113,21,Diseased
+93,38.06,104,23,Diseased
+97,36.93,126,44,Normal
+92,38.07,109,27,Diseased
+91,38.36,100,22,Diseased
+93,37.91,100,28,Diseased
+90,38.46,108,28,Diseased
+93,37.86,110,25,Diseased
+92,37.93,108,22,Diseased
+84,39.56,98,12,Highly Diseased
+86,38.71,66,15,Highly Diseased
+82,39.72,74,18,Highly Diseased
+92,38.41,109,28,Diseased
+99,37.05,145,37,Normal
+84,39.62,87,15,Highly Diseased
+83,38.99,96,14,Highly Diseased
+93,37.93,111,25,Diseased
+90,38.28,102,25,Diseased
+98,36.59,154,32,Normal
+90,38.26,108,26,Diseased
+88,38.04,107,25,Diseased
+90,37.81,105,22,Diseased
+88,38.39,105,20,Diseased
+98,37.27,154,55,Normal
+82,39.49,75,16,Highly Diseased
+99,36.96,122,45,Normal
+95,36.58,155,41,Normal
+82,39.97,90,10,Highly Diseased
+89,37.92,112,21,Diseased
+93,37.97,112,20,Diseased
+90,37.77,111,21,Diseased
+89,38.24,112,20,Diseased
+98,36.7,149,32,Normal
+81,38.63,82,13,Highly Diseased
+96,36.88,139,53,Normal
+88,37.62,113,23,Diseased
+81,39.62,86,18,Highly Diseased
+84,39.98,74,14,Highly Diseased
+80,38.85,92,17,Highly Diseased
+90,38.02,115,25,Diseased
+92,38.14,104,27,Diseased
+83,39.67,71,13,Highly Diseased
+80,39.21,83,15,Highly Diseased
+90,37.64,101,22,Diseased
+89,37.63,108,24,Diseased
+96,36.63,142,35,Normal
+91,37.93,100,25,Diseased
+99,36.58,134,35,Normal
+84,39.22,69,15,Highly Diseased
+83,39.66,70,11,Highly Diseased
+97,36.94,134,47,Normal
+80,38.69,98,17,Highly Diseased
+80,39.09,80,10,Highly Diseased
+90,38.49,115,20,Diseased
+86,39.9,78,17,Highly Diseased
+93,38.14,110,21,Diseased
+96,37.47,147,59,Normal
+86,39.43,63,16,Highly Diseased
+97,36.93,145,49,Normal
+80,39.1,71,18,Highly Diseased
+97,37.45,130,42,Normal
+86,38.74,89,15,Highly Diseased
+86,39.31,62,15,Highly Diseased
+82,38.65,65,17,Highly Diseased
+96,37.2,134,46,Normal
+98,36.84,122,55,Normal
+80,38.63,96,16,Highly Diseased
+85,39.5,66,18,Highly Diseased
+92,38.22,110,25,Diseased
+89,38.08,110,25,Diseased
+99,36.76,134,32,Normal
+85,39.13,84,17,Highly Diseased
+81,38.79,87,10,Highly Diseased
+91,38.02,117,25,Diseased
+89,37.63,116,27,Diseased
+97,36.55,149,50,Normal
+83,39.56,64,10,Highly Diseased
+95,36.67,146,31,Normal
+83,39.63,79,14,Highly Diseased
+88,37.72,109,28,Diseased
+98,37.41,125,40,Normal
+85,39.73,62,11,Highly Diseased
+80,39.43,64,13,Highly Diseased
+80,39.52,93,12,Highly Diseased
+95,37.38,130,40,Normal
+90,38.1,115,28,Diseased
+84,39.76,67,17,Highly Diseased
+82,38.65,66,16,Highly Diseased
+81,38.94,94,17,Highly Diseased
+80,39.0,61,13,Highly Diseased
+98,37.18,149,47,Normal
+91,37.94,103,26,Diseased
+91,38.0,113,22,Diseased
+84,38.7,97,10,Highly Diseased
+81,39.64,98,16,Highly Diseased
+95,37.38,146,52,Normal
+90,38.28,118,28,Diseased
+96,37.13,152,30,Normal
+98,37.05,139,56,Normal
+89,38.25,106,22,Diseased
+85,39.47,62,16,Highly Diseased
+98,37.35,152,38,Normal
+89,38.05,102,26,Diseased
+92,37.65,102,23,Diseased
+86,39.32,97,10,Highly Diseased
+86,38.84,63,10,Highly Diseased
+91,38.31,105,28,Diseased
+98,37.43,134,34,Normal
+95,37.09,131,30,Normal
+85,39.73,78,17,Highly Diseased
+91,38.02,101,23,Diseased
+93,37.88,106,23,Diseased
+89,38.05,101,23,Diseased
+90,37.92,102,21,Diseased
+98,36.54,138,39,Normal
+91,37.92,107,25,Diseased
+89,38.4,103,22,Diseased
+97,37.38,124,40,Normal
+96,36.95,158,42,Normal
+93,38.11,109,20,Diseased
+91,38.01,114,20,Diseased
+99,36.97,148,50,Normal
+99,37.13,153,51,Normal
+95,37.07,153,42,Normal
+80,39.04,92,10,Highly Diseased
+95,36.72,134,49,Normal
+86,38.96,63,14,Highly Diseased
+97,36.6,121,36,Normal
+85,39.2,77,15,Highly Diseased
+99,36.63,142,54,Normal
+81,38.85,75,15,Highly Diseased
+90,37.98,117,22,Diseased
+92,37.98,104,27,Diseased
+89,38.29,118,24,Diseased
+90,37.98,101,23,Diseased
+90,37.86,107,28,Diseased
+86,39.4,74,11,Highly Diseased
+99,37.47,159,48,Normal
+81,39.15,76,17,Highly Diseased
+80,38.73,83,16,Highly Diseased
+95,36.92,127,53,Normal
+98,37.24,127,56,Normal
+89,37.89,118,22,Diseased
+95,37.19,153,50,Normal
+90,38.18,107,24,Diseased
+82,38.61,70,16,Highly Diseased
+83,39.65,93,13,Highly Diseased
+93,38.16,112,21,Diseased
+98,36.66,122,30,Normal
+91,37.91,112,25,Diseased
+93,38.34,106,24,Diseased
+84,38.68,72,14,Highly Diseased
+91,37.64,113,21,Diseased
+97,36.76,133,40,Normal
+90,38.14,115,27,Diseased
+82,39.54,72,16,Highly Diseased
+91,38.47,116,24,Diseased
+98,37.49,135,55,Normal
+85,39.52,84,14,Highly Diseased
+86,39.45,85,12,Highly Diseased
+98,36.63,135,35,Normal
+81,38.67,67,11,Highly Diseased
+80,39.01,87,12,Highly Diseased
+98,36.89,157,40,Normal
+93,37.88,116,28,Diseased
+82,39.33,71,18,Highly Diseased
+92,38.09,110,25,Diseased
+85,39.46,78,13,Highly Diseased
+85,39.17,78,12,Highly Diseased
+93,38.41,102,27,Diseased
+96,37.35,154,41,Normal
+88,38.34,103,27,Diseased
+97,36.79,134,47,Normal
+80,39.6,82,14,Highly Diseased
+98,37.23,157,40,Normal
+93,38.08,103,20,Diseased
+83,39.32,94,11,Highly Diseased
+86,39.49,85,11,Highly Diseased
+91,38.07,106,26,Diseased
+98,37.07,149,46,Normal
+85,39.37,87,16,Highly Diseased
+95,37.03,144,52,Normal
+85,39.5,74,13,Highly Diseased
+96,36.65,147,59,Normal
+99,37.38,130,45,Normal
+80,39.7,77,14,Highly Diseased
+91,37.67,103,24,Diseased
+95,36.88,143,30,Normal
+85,38.95,83,17,Highly Diseased
+91,37.85,107,20,Diseased
+83,39.44,67,18,Highly Diseased
+98,37.01,139,43,Normal
+96,37.18,123,48,Normal
+80,39.55,64,10,Highly Diseased
+95,36.98,131,55,Normal
+91,38.46,109,20,Diseased
+93,38.29,117,25,Diseased
+89,38.23,111,26,Diseased
+91,38.08,104,21,Diseased
+96,36.62,126,32,Normal
+89,37.67,109,25,Diseased
+97,36.82,123,39,Normal
+85,39.72,85,12,Highly Diseased
+97,36.82,125,51,Normal
+90,38.39,108,22,Diseased
+80,38.97,61,12,Highly Diseased
+99,37.4,141,38,Normal
+93,38.48,108,28,Diseased
+89,38.28,104,28,Diseased
+86,39.26,60,12,Highly Diseased
+81,38.98,85,17,Highly Diseased
+90,38.07,115,20,Diseased
+89,37.76,108,27,Diseased
+90,37.64,112,23,Diseased
+90,38.09,113,25,Diseased
+89,38.22,108,22,Diseased
+89,38.33,117,20,Diseased
+99,36.9,122,41,Normal
+97,36.96,121,45,Normal
+97,37.07,136,43,Normal
+84,38.72,94,16,Highly Diseased
+97,36.55,136,51,Normal
+97,37.14,147,47,Normal
+91,38.14,118,25,Diseased
+95,37.15,159,31,Normal
+88,37.93,107,21,Diseased
+84,39.8,61,12,Highly Diseased
+84,38.68,90,12,Highly Diseased
+93,37.94,111,25,Diseased
+96,36.51,154,57,Normal
+92,38.37,115,21,Diseased
+96,37.01,136,46,Normal
+88,38.31,105,27,Diseased
+99,36.69,157,57,Normal
+88,38.43,115,21,Diseased
+92,38.23,118,27,Diseased
+88,38.34,116,23,Diseased
+80,39.97,85,17,Highly Diseased
+84,39.28,65,16,Highly Diseased
+95,36.54,138,58,Normal
+85,39.88,66,17,Highly Diseased
+84,39.95,64,16,Highly Diseased
+83,39.15,89,14,Highly Diseased
+89,38.13,104,26,Diseased
+85,38.72,93,12,Highly Diseased
+85,39.62,86,15,Highly Diseased
+97,36.88,143,58,Normal
+84,39.42,72,11,Highly Diseased
+98,36.8,133,49,Normal
+80,38.8,68,13,Highly Diseased
+83,39.8,68,15,Highly Diseased
+83,39.18,65,12,Highly Diseased
+99,37.5,139,44,Normal
+91,38.03,111,28,Diseased
+97,36.52,129,42,Normal
+88,38.17,100,25,Diseased
+95,37.37,146,54,Normal
+98,37.48,121,56,Normal
+80,39.41,96,16,Highly Diseased
+85,38.72,76,13,Highly Diseased
+89,38.06,115,22,Diseased
+97,36.86,140,46,Normal
+83,39.22,98,18,Highly Diseased
+96,36.51,133,47,Normal
+89,37.96,107,20,Diseased
+96,37.11,147,30,Normal
+83,38.88,84,15,Highly Diseased
+96,37.41,143,31,Normal
+80,39.75,96,16,Highly Diseased
+89,37.97,103,25,Diseased
+80,39.16,93,13,Highly Diseased
+85,38.63,73,10,Highly Diseased
+93,37.83,111,21,Diseased
+83,38.82,83,16,Highly Diseased
+85,39.7,74,13,Highly Diseased
+95,37.16,122,52,Normal
+81,39.25,92,13,Highly Diseased
+85,38.86,90,15,Highly Diseased
+89,37.74,104,22,Diseased
+81,38.97,69,11,Highly Diseased
+84,38.86,80,14,Highly Diseased
+82,39.44,93,11,Highly Diseased
+92,37.91,118,23,Diseased
+92,37.75,117,25,Diseased
+99,37.49,120,59,Normal
+86,39.68,84,12,Highly Diseased
+80,38.95,73,11,Highly Diseased
+96,36.87,129,48,Normal
+82,39.64,77,13,Highly Diseased
+95,36.59,157,46,Normal
+99,37.2,140,32,Normal
+96,37.01,144,53,Normal
+98,37.37,142,48,Normal
+96,36.62,121,30,Normal
+83,39.76,63,14,Highly Diseased
+91,38.07,106,28,Diseased
+82,38.96,95,12,Highly Diseased
+99,37.33,150,30,Normal
+97,36.65,144,51,Normal
+88,38.22,110,21,Diseased
+83,39.27,75,17,Highly Diseased
+83,38.8,80,11,Highly Diseased
+89,37.84,100,26,Diseased
+85,39.79,84,13,Highly Diseased
+86,39.68,68,16,Highly Diseased
+98,37.07,149,35,Normal
+93,38.07,113,28,Diseased
+96,37.32,155,55,Normal
+93,38.04,109,21,Diseased
+82,38.75,97,17,Highly Diseased
+89,37.75,111,20,Diseased
+93,37.77,101,22,Diseased
+99,36.74,142,38,Normal
+97,36.75,136,57,Normal
+89,37.84,113,24,Diseased
+96,37.35,127,30,Normal
+83,39.93,64,18,Highly Diseased
+97,37.09,145,49,Normal
+89,38.31,106,20,Diseased
+81,39.12,78,11,Highly Diseased
+82,39.39,95,14,Highly Diseased
+99,37.35,128,41,Normal
+93,37.62,103,24,Diseased
+84,39.92,62,14,Highly Diseased
+83,38.63,63,18,Highly Diseased
+96,36.73,145,38,Normal
+92,38.18,100,27,Diseased
+97,37.1,143,37,Normal
+86,39.76,91,14,Highly Diseased
+84,39.04,98,11,Highly Diseased
+97,37.5,151,38,Normal
+95,36.9,144,59,Normal
+96,36.88,138,54,Normal
+85,39.98,68,12,Highly Diseased
+81,38.99,75,15,Highly Diseased
+96,37.5,146,47,Normal
+81,39.21,67,11,Highly Diseased
+92,38.38,106,21,Diseased
+89,38.23,103,25,Diseased
+81,39.34,73,11,Highly Diseased
+97,37.4,122,47,Normal
+99,36.9,148,32,Normal
+86,38.98,87,14,Highly Diseased
+83,39.35,81,11,Highly Diseased
+82,38.96,88,10,Highly Diseased
+80,39.18,76,10,Highly Diseased
+88,37.99,114,23,Diseased
+90,38.14,111,26,Diseased
+88,37.64,113,20,Diseased
+81,39.64,82,13,Highly Diseased
+86,39.37,66,14,Highly Diseased
+92,38.04,107,23,Diseased
+99,36.56,124,32,Normal
+88,37.99,109,27,Diseased
+91,38.1,112,27,Diseased
+85,39.14,91,15,Highly Diseased
+84,39.48,82,12,Highly Diseased
+89,38.03,104,21,Diseased
+93,38.47,118,25,Diseased
+95,36.78,132,58,Normal
+97,36.94,131,46,Normal
+82,39.17,73,12,Highly Diseased
+89,37.68,108,28,Diseased
+93,38.39,113,28,Diseased
+90,37.71,101,25,Diseased
+84,39.79,92,16,Highly Diseased
+89,37.9,103,24,Diseased
+88,37.85,100,22,Diseased
+85,39.22,89,16,Highly Diseased
+88,38.15,114,22,Diseased
+86,38.7,87,10,Highly Diseased
+88,38.04,109,22,Diseased
+81,39.26,64,18,Highly Diseased
+95,37.36,159,55,Normal
+91,37.7,108,22,Diseased
+98,37.36,145,53,Normal
+91,37.71,114,23,Diseased
+96,37.46,151,39,Normal
+92,38.31,110,27,Diseased
+96,36.56,136,52,Normal
+80,39.17,84,12,Highly Diseased
+80,38.96,95,18,Highly Diseased
+88,38.12,115,23,Diseased
+88,37.79,108,25,Diseased
+84,39.36,66,13,Highly Diseased
+95,37.23,127,45,Normal
+83,38.61,72,16,Highly Diseased
+85,38.64,62,18,Highly Diseased
+90,38.18,114,20,Diseased
+85,39.26,70,13,Highly Diseased
+99,37.3,120,51,Normal
+99,37.47,147,32,Normal
+93,37.63,103,27,Diseased
+83,38.78,80,17,Highly Diseased
+81,38.76,97,12,Highly Diseased
+92,37.88,106,23,Diseased
+99,36.95,128,33,Normal
+83,38.83,76,15,Highly Diseased
+90,38.18,109,26,Diseased
+96,37.41,123,45,Normal
+89,38.19,108,23,Diseased
+95,37.26,121,42,Normal
+88,38.18,101,28,Diseased
+83,38.62,98,15,Highly Diseased
+99,36.59,142,41,Normal
+97,37.48,120,57,Normal
+95,37.39,147,59,Normal
+95,36.59,127,57,Normal
+86,38.77,86,18,Highly Diseased
+89,38.15,115,21,Diseased
+84,39.93,67,12,Highly Diseased
+93,37.78,118,27,Diseased
+80,39.98,63,11,Highly Diseased
+88,37.85,114,26,Diseased
+92,37.62,102,22,Diseased
+84,39.56,70,17,Highly Diseased
+81,39.19,71,12,Highly Diseased
+91,37.97,118,20,Diseased
+91,37.96,112,26,Diseased
+80,39.01,69,17,Highly Diseased
+97,36.96,159,57,Normal
+95,37.47,134,37,Normal
+86,39.98,93,10,Highly Diseased
+88,37.91,118,20,Diseased
+95,36.81,159,40,Normal
+98,37.3,122,53,Normal
+88,37.78,112,27,Diseased
+81,39.33,60,17,Highly Diseased
+88,37.84,118,27,Diseased
+99,37.28,122,42,Normal
+88,37.69,115,26,Diseased
+91,37.7,101,22,Diseased
+86,38.7,85,16,Highly Diseased
+89,38.25,115,20,Diseased
+86,39.83,79,11,Highly Diseased
+89,38.21,100,28,Diseased
+96,36.64,135,35,Normal
+85,39.6,86,18,Highly Diseased
+91,37.83,107,22,Diseased
+97,37.23,129,47,Normal
+86,39.62,90,14,Highly Diseased
+95,36.53,139,50,Normal
+93,37.67,106,28,Diseased
+98,37.07,128,47,Normal
+80,38.82,95,10,Highly Diseased
+93,38.12,112,20,Diseased
+84,39.68,77,12,Highly Diseased
+98,36.64,155,47,Normal
+90,37.69,100,27,Diseased
+93,37.69,103,28,Diseased
+98,37.47,159,58,Normal
+90,37.9,104,25,Diseased
+99,36.59,133,44,Normal
+84,39.57,80,17,Highly Diseased
+82,39.26,70,17,Highly Diseased
+84,39.59,66,14,Highly Diseased
+95,36.69,142,52,Normal
+98,37.07,129,58,Normal
+83,39.52,83,16,Highly Diseased
+95,36.9,138,43,Normal
+85,38.87,85,11,Highly Diseased
+88,37.82,108,25,Diseased
+84,39.61,93,15,Highly Diseased
+85,38.79,79,11,Highly Diseased
+93,37.85,114,24,Diseased
+98,37.15,156,41,Normal
+92,38.35,107,24,Diseased
+93,38.32,115,28,Diseased
+85,39.03,77,15,Highly Diseased
+98,37.24,124,58,Normal
+89,38.31,113,22,Diseased
+86,39.16,89,18,Highly Diseased
+91,38.31,113,23,Diseased
+90,38.06,108,21,Diseased
+98,36.98,127,42,Normal
+97,36.67,120,58,Normal
+98,36.69,143,34,Normal
+83,39.44,69,10,Highly Diseased
+95,36.66,158,42,Normal
+95,36.73,123,36,Normal
+86,38.7,87,16,Highly Diseased
+93,37.87,100,26,Diseased
+88,37.64,108,27,Diseased
+99,37.26,130,36,Normal
+89,37.97,107,24,Diseased
+91,37.71,116,20,Diseased
+90,37.93,105,22,Diseased
+82,39.3,91,11,Highly Diseased
+83,39.61,91,13,Highly Diseased
+98,36.63,157,53,Normal
+92,37.61,101,25,Diseased
+97,37.38,132,30,Normal
+85,38.61,62,17,Highly Diseased
+92,38.02,108,20,Diseased
+91,38.19,102,26,Diseased
+83,39.68,65,18,Highly Diseased
+96,37.4,141,43,Normal
+90,37.67,118,24,Diseased
+83,39.59,88,17,Highly Diseased
+96,37.08,149,54,Normal
+93,38.29,111,24,Diseased
+86,39.46,79,17,Highly Diseased
+99,37.17,125,40,Normal
+82,39.77,71,17,Highly Diseased
+97,36.79,141,32,Normal
+82,39.13,76,12,Highly Diseased
+84,38.7,94,18,Highly Diseased
+98,37.07,137,45,Normal
+80,39.04,67,16,Highly Diseased
+91,37.8,115,26,Diseased
+98,36.98,159,40,Normal
+97,36.55,134,48,Normal
+89,37.67,112,28,Diseased
+82,39.07,92,17,Highly Diseased
+99,37.23,126,31,Normal
+99,36.58,133,58,Normal
+96,36.55,149,35,Normal
+81,39.32,82,12,Highly Diseased
+98,36.67,142,53,Normal
+90,38.36,104,21,Diseased
+92,37.65,113,22,Diseased
+93,38.08,110,27,Diseased
+98,37.07,143,47,Normal
+91,38.0,118,25,Diseased
+89,38.36,100,28,Diseased
+84,39.8,85,11,Highly Diseased
+86,39.54,89,10,Highly Diseased
+80,39.89,91,16,Highly Diseased
+93,38.37,105,26,Diseased
+95,37.26,141,46,Normal
+89,38.03,117,23,Diseased
+98,37.38,144,45,Normal
+92,38.36,111,21,Diseased
+95,37.09,128,54,Normal
+82,39.45,89,14,Highly Diseased
+96,36.94,135,56,Normal
+90,38.17,101,20,Diseased
+86,38.73,71,14,Highly Diseased
+89,38.23,112,23,Diseased
+85,38.82,74,13,Highly Diseased
+80,39.93,63,17,Highly Diseased
+96,36.74,146,58,Normal
+91,38.25,117,26,Diseased
+83,39.69,78,15,Highly Diseased
+88,37.96,108,21,Diseased
+82,38.91,69,14,Highly Diseased
+95,36.91,151,44,Normal
+98,36.57,156,55,Normal
+86,39.3,60,15,Highly Diseased
+91,38.1,109,24,Diseased
+99,36.75,147,43,Normal
+95,37.39,150,53,Normal
+88,37.68,113,28,Diseased
+97,37.42,145,53,Normal
+83,38.92,75,18,Highly Diseased
+92,38.11,111,25,Diseased
+88,37.77,115,22,Diseased
+84,39.81,89,12,Highly Diseased
+92,38.01,115,25,Diseased
+80,39.57,69,11,Highly Diseased
+95,37.04,122,55,Normal
+92,37.78,109,24,Diseased
+96,37.15,157,45,Normal
+91,38.18,112,25,Diseased
+89,37.65,117,27,Diseased
+80,38.84,94,12,Highly Diseased
+92,38.34,101,28,Diseased
+97,37.31,156,53,Normal
+90,37.85,105,25,Diseased
+81,39.96,71,11,Highly Diseased
+90,37.68,118,20,Diseased
+82,38.81,88,12,Highly Diseased
+82,39.79,80,14,Highly Diseased
+83,38.78,77,17,Highly Diseased
+84,39.18,70,13,Highly Diseased
+88,37.78,105,20,Diseased
+97,36.56,148,38,Normal
+97,36.85,121,42,Normal
+83,39.86,72,13,Highly Diseased
+97,36.68,159,48,Normal
+86,39.73,68,14,Highly Diseased
+97,36.86,129,49,Normal
+95,36.64,130,42,Normal
+81,39.35,64,14,Highly Diseased
+80,39.09,72,13,Highly Diseased
+99,37.36,132,30,Normal
+95,36.78,156,45,Normal
+96,36.73,138,33,Normal
+97,37.14,153,45,Normal
+98,37.45,134,58,Normal
+95,37.36,131,42,Normal
+95,37.21,120,40,Normal
+90,38.14,108,22,Diseased
+99,37.29,150,51,Normal
+90,38.08,101,24,Diseased
+98,36.71,138,32,Normal
+97,37.32,135,37,Normal
+99,37.17,158,35,Normal
+95,37.31,131,47,Normal
+93,38.49,113,26,Diseased
+80,39.25,64,16,Highly Diseased
+83,39.2,67,14,Highly Diseased
+96,37.2,127,53,Normal
+93,38.17,110,20,Diseased
+93,38.21,117,28,Diseased
+80,39.8,62,13,Highly Diseased
+83,38.73,91,15,Highly Diseased
+98,37.06,143,32,Normal
+98,36.74,134,36,Normal
+80,39.2,95,10,Highly Diseased
+83,39.56,92,12,Highly Diseased
+97,37.39,144,53,Normal
+90,38.29,103,27,Diseased
+83,38.99,91,18,Highly Diseased
+88,38.26,110,20,Diseased
+92,38.31,114,22,Diseased
+83,39.39,60,17,Highly Diseased
+82,39.22,84,15,Highly Diseased
+96,36.57,144,43,Normal
+93,37.87,108,23,Diseased
+80,38.75,85,14,Highly Diseased
+82,39.82,72,16,Highly Diseased
+98,37.5,129,31,Normal
+95,37.33,145,50,Normal
+88,38.47,112,27,Diseased
+97,36.58,126,54,Normal
+98,36.86,142,30,Normal
+97,36.93,135,54,Normal
+96,37.36,127,38,Normal
+99,36.96,159,30,Normal
+90,38.29,108,26,Diseased
+99,37.22,129,53,Normal
+88,38.05,113,23,Diseased
+98,36.6,155,34,Normal
+80,38.96,96,18,Highly Diseased
+91,38.21,109,23,Diseased
+91,38.22,107,26,Diseased
+92,38.39,105,21,Diseased
+82,39.62,62,10,Highly Diseased
+99,37.44,134,33,Normal
+89,38.39,114,24,Diseased
+93,38.34,108,24,Diseased
+98,37.45,133,54,Normal
+95,37.06,151,45,Normal
+86,39.84,95,18,Highly Diseased
+98,36.88,143,38,Normal
+99,37.22,145,32,Normal
+83,39.5,96,15,Highly Diseased
+99,36.91,145,52,Normal
+84,39.8,88,17,Highly Diseased
+83,38.74,78,11,Highly Diseased
+95,36.85,158,40,Normal
+99,36.61,140,36,Normal
+83,39.12,69,11,Highly Diseased
+90,37.89,116,21,Diseased
+84,38.64,88,12,Highly Diseased
+81,39.12,60,14,Highly Diseased
+96,36.87,151,44,Normal
+89,38.2,106,27,Diseased
+81,39.76,67,10,Highly Diseased
+96,36.56,155,54,Normal
+86,39.27,73,12,Highly Diseased
+99,36.78,126,44,Normal
+86,39.48,91,17,Highly Diseased
+92,37.69,117,22,Diseased
+88,38.49,100,20,Diseased
+99,36.67,155,43,Normal
+99,37.08,151,59,Normal
+95,36.55,154,53,Normal
+96,36.94,137,40,Normal
+89,38.13,103,22,Diseased
+96,36.63,128,58,Normal
+96,36.84,124,59,Normal
+84,38.71,82,11,Highly Diseased
+81,38.63,87,12,Highly Diseased
+98,36.92,149,42,Normal
+83,39.69,94,13,Highly Diseased
+93,37.93,110,26,Diseased
+84,38.81,69,13,Highly Diseased
+85,39.41,82,16,Highly Diseased
+90,37.7,106,21,Diseased
+89,38.21,100,20,Diseased
+93,37.75,116,24,Diseased
+99,37.09,131,32,Normal
+84,39.09,92,14,Highly Diseased
+95,37.2,147,38,Normal
+98,36.84,135,45,Normal
+99,37.31,143,57,Normal
+82,39.41,76,16,Highly Diseased
+96,37.22,148,46,Normal
+93,38.03,108,25,Diseased
+99,36.73,121,54,Normal
+84,39.08,90,17,Highly Diseased
+80,38.72,97,15,Highly Diseased
+96,36.83,126,39,Normal
+91,38.49,117,21,Diseased
+95,37.38,129,38,Normal
+96,37.06,132,53,Normal
+80,38.84,61,16,Highly Diseased
+95,37.41,144,40,Normal
+92,38.23,100,23,Diseased
+81,39.5,70,17,Highly Diseased
+99,36.73,135,46,Normal
+80,38.91,76,18,Highly Diseased
+82,39.4,63,14,Highly Diseased
+98,36.68,148,51,Normal
+83,38.96,78,18,Highly Diseased
+84,39.65,89,12,Highly Diseased
+95,36.61,139,59,Normal
+81,39.57,95,15,Highly Diseased
+84,38.91,97,18,Highly Diseased
+96,37.15,122,53,Normal
+93,38.39,118,20,Diseased
+98,37.07,138,42,Normal
+97,37.29,148,30,Normal
+83,38.69,96,16,Highly Diseased
+97,36.65,147,31,Normal
+97,36.98,150,42,Normal
+98,36.68,133,32,Normal
+81,39.29,83,12,Highly Diseased
+97,37.03,137,56,Normal
+82,39.27,62,15,Highly Diseased
+80,38.73,65,16,Highly Diseased
+91,38.03,110,21,Diseased
+90,38.47,105,22,Diseased
+96,37.32,134,52,Normal
+95,37.05,124,56,Normal
+81,39.17,77,17,Highly Diseased
+95,36.72,149,47,Normal
+81,38.74,68,15,Highly Diseased
+92,37.84,105,25,Diseased
+88,37.66,107,22,Diseased
+96,37.31,126,35,Normal
+84,39.64,89,15,Highly Diseased
+90,37.65,106,24,Diseased
+93,38.19,108,22,Diseased
+99,37.38,140,52,Normal
+91,38.3,112,20,Diseased
+81,39.16,87,13,Highly Diseased
+84,38.83,62,10,Highly Diseased
+85,38.63,74,13,Highly Diseased
+91,37.9,115,27,Diseased
+85,39.04,87,17,Highly Diseased
+81,39.93,63,15,Highly Diseased
+80,38.82,61,10,Highly Diseased
+86,39.88,68,10,Highly Diseased
+84,39.46,83,16,Highly Diseased
+82,39.12,83,13,Highly Diseased
+98,36.88,138,34,Normal
+95,36.83,150,52,Normal
+99,37.09,135,39,Normal
+95,37.4,147,38,Normal
+97,37.23,151,42,Normal
+96,37.33,134,32,Normal
+89,37.83,101,20,Diseased
+97,36.89,141,35,Normal
+89,37.68,118,21,Diseased
+96,36.59,152,33,Normal
+92,38.23,109,25,Diseased
+84,39.54,85,18,Highly Diseased
+81,39.79,96,11,Highly Diseased
+88,38.16,109,24,Diseased
+95,36.53,139,39,Normal
+93,37.81,107,21,Diseased
+96,36.87,126,38,Normal
+86,39.16,98,18,Highly Diseased
+85,39.35,62,15,Highly Diseased
+90,37.97,118,21,Diseased
+90,38.11,118,20,Diseased
+90,37.85,115,24,Diseased
+92,38.48,105,26,Diseased
+95,37.4,153,53,Normal
+92,38.38,115,20,Diseased
+96,37.33,137,51,Normal
+98,36.84,150,48,Normal
+80,38.88,67,18,Highly Diseased
+81,39.71,66,18,Highly Diseased
+88,38.24,115,21,Diseased
+85,39.29,77,18,Highly Diseased
+97,36.75,135,47,Normal
+84,39.37,70,11,Highly Diseased
+99,36.66,133,49,Normal
+88,37.77,107,24,Diseased
+98,37.3,137,45,Normal
+99,36.74,134,51,Normal
+99,36.77,126,42,Normal
+83,39.31,61,14,Highly Diseased
+98,37.41,154,32,Normal
+93,38.48,109,25,Diseased
+80,39.66,96,17,Highly Diseased
+96,37.23,121,42,Normal
+80,39.05,85,10,Highly Diseased
+86,39.93,80,13,Highly Diseased
+97,37.18,123,43,Normal
+81,39.89,80,14,Highly Diseased
+81,39.75,71,13,Highly Diseased
+83,39.75,84,17,Highly Diseased
+91,38.36,103,27,Diseased
+82,38.92,74,15,Highly Diseased
+89,38.17,111,26,Diseased
+89,37.92,100,23,Diseased
+97,37.1,145,51,Normal
+82,38.93,73,12,Highly Diseased
+84,38.73,62,14,Highly Diseased
+84,38.88,87,11,Highly Diseased
+80,39.46,95,18,Highly Diseased
+80,39.09,81,18,Highly Diseased
+95,36.82,136,45,Normal
+93,38.04,118,21,Diseased
+89,38.3,107,20,Diseased
+92,37.96,117,22,Diseased
+91,37.71,114,20,Diseased
+92,37.77,113,27,Diseased
+86,39.15,75,16,Highly Diseased
+97,36.61,158,41,Normal
+89,37.78,116,28,Diseased
+88,37.7,110,21,Diseased
+81,39.98,83,18,Highly Diseased
+97,37.49,153,53,Normal
+89,37.96,104,28,Diseased
+80,39.5,77,15,Highly Diseased
+81,39.22,75,14,Highly Diseased
+85,39.19,93,16,Highly Diseased
+99,36.59,150,38,Normal
+98,37.4,135,35,Normal
+92,38.15,112,21,Diseased
+85,39.05,75,12,Highly Diseased
+97,36.9,146,54,Normal
+88,38.36,104,26,Diseased
+85,39.98,93,17,Highly Diseased
+92,38.33,108,26,Diseased
+95,37.35,140,57,Normal
+90,37.75,114,20,Diseased
+80,39.15,97,10,Highly Diseased
+84,39.62,91,17,Highly Diseased
+97,36.71,135,56,Normal
+91,37.89,118,20,Diseased
+84,39.16,79,13,Highly Diseased
+93,37.63,113,20,Diseased
+83,38.99,95,11,Highly Diseased
+86,39.14,64,16,Highly Diseased
+88,38.1,107,23,Diseased
+84,39.29,69,14,Highly Diseased
+99,36.65,145,59,Normal
+83,39.68,64,15,Highly Diseased
+95,36.92,122,53,Normal
+93,38.24,116,27,Diseased
+84,38.9,64,10,Highly Diseased
+96,37.43,134,40,Normal
+98,37.07,157,48,Normal
+85,38.67,78,10,Highly Diseased
+80,39.16,73,13,Highly Diseased
+95,36.98,135,41,Normal
+86,39.21,96,17,Highly Diseased
+89,38.37,103,28,Diseased
+91,38.35,104,28,Diseased
+88,37.78,116,28,Diseased
+97,36.89,141,41,Normal
+97,36.64,137,44,Normal
+89,37.63,102,25,Diseased
+93,38.33,103,27,Diseased
+88,37.85,118,25,Diseased
+82,39.48,89,14,Highly Diseased
+81,38.67,60,14,Highly Diseased
+98,36.94,143,56,Normal
+99,36.6,142,54,Normal
+88,37.81,107,24,Diseased
+91,38.25,114,28,Diseased
+92,37.89,104,25,Diseased
+89,38.44,112,21,Diseased
+97,36.94,126,39,Normal
+84,39.92,79,13,Highly Diseased
+82,39.12,81,10,Highly Diseased
+91,38.12,108,28,Diseased
+97,37.19,137,33,Normal
+90,37.88,117,25,Diseased
+97,37.43,155,46,Normal
+85,39.1,73,11,Highly Diseased
+83,38.76,88,13,Highly Diseased
+99,37.0,157,58,Normal
+91,37.66,105,20,Diseased
+84,39.63,95,11,Highly Diseased
+91,38.15,114,27,Diseased
+90,37.81,117,27,Diseased
+88,37.74,106,22,Diseased
+92,38.46,101,26,Diseased
+96,36.65,156,48,Normal
+90,38.25,103,28,Diseased
+80,39.35,81,11,Highly Diseased
+95,36.72,140,51,Normal
+95,36.95,129,49,Normal
+98,36.58,155,57,Normal
+97,37.22,143,51,Normal
+92,37.79,111,23,Diseased
+95,37.01,158,30,Normal
+96,37.17,143,44,Normal
+92,38.19,102,28,Diseased
+95,36.53,133,58,Normal
+88,38.47,104,21,Diseased
+96,36.61,157,51,Normal
+80,39.4,81,15,Highly Diseased
+91,37.71,116,22,Diseased
+98,36.92,123,53,Normal
+93,37.96,115,27,Diseased
+84,39.48,78,17,Highly Diseased
+92,38.35,104,26,Diseased
+81,39.24,77,14,Highly Diseased
+97,37.35,147,46,Normal
+89,38.42,118,25,Diseased
+85,39.8,79,14,Highly Diseased
+84,39.49,97,14,Highly Diseased
+83,39.6,64,18,Highly Diseased
+82,38.87,79,10,Highly Diseased
+98,36.6,121,32,Normal
+92,38.24,110,22,Diseased
+84,39.99,83,13,Highly Diseased
+90,38.07,109,28,Diseased
+95,37.27,142,58,Normal
+92,38.21,106,27,Diseased
+96,37.33,128,50,Normal
+91,38.28,116,21,Diseased
+83,39.28,67,10,Highly Diseased
+91,38.12,100,25,Diseased
+95,36.51,157,32,Normal
+89,37.77,118,23,Diseased
+82,39.15,63,11,Highly Diseased
+89,38.32,115,22,Diseased
+81,39.44,89,14,Highly Diseased
+85,39.71,93,14,Highly Diseased
+88,37.72,113,24,Diseased
+90,37.81,117,22,Diseased
+96,36.84,142,38,Normal
+85,39.18,93,17,Highly Diseased
+85,39.02,73,11,Highly Diseased
+86,39.64,60,18,Highly Diseased
+80,39.8,71,13,Highly Diseased
+93,38.14,101,27,Diseased
+96,36.94,135,53,Normal
+92,38.21,117,27,Diseased
+98,37.13,145,42,Normal
+82,39.14,85,14,Highly Diseased
+88,37.67,117,25,Diseased
+99,37.0,120,48,Normal
+93,38.47,110,28,Diseased
+82,39.98,72,18,Highly Diseased
+91,38.34,117,20,Diseased
+93,37.74,105,28,Diseased
+96,37.01,140,53,Normal
+91,37.98,118,27,Diseased
+98,36.71,152,46,Normal
+85,39.63,63,11,Highly Diseased
+80,38.67,64,12,Highly Diseased
+88,37.97,108,25,Diseased
+93,38.47,112,23,Diseased
+81,39.04,62,15,Highly Diseased
+99,37.19,147,54,Normal
+96,36.79,130,41,Normal
+81,39.69,87,11,Highly Diseased
+93,38.09,109,23,Diseased
+96,36.75,128,49,Normal
+97,36.78,138,55,Normal
+98,37.36,143,54,Normal
+89,38.35,101,22,Diseased
+91,38.28,115,25,Diseased
+83,39.34,96,17,Highly Diseased
+98,36.99,123,50,Normal
+89,38.46,114,24,Diseased
+84,39.33,77,11,Highly Diseased
+96,36.53,136,30,Normal
+95,36.82,145,53,Normal
+97,36.87,140,49,Normal
+89,38.08,116,25,Diseased
+93,38.02,102,23,Diseased
+86,39.59,74,18,Highly Diseased
+98,36.72,153,58,Normal
+97,36.55,152,40,Normal
+97,37.46,136,52,Normal
+84,39.67,83,14,Highly Diseased
+98,37.31,120,49,Normal
+92,38.31,118,23,Diseased
+97,36.62,127,34,Normal
+91,37.8,103,22,Diseased
+90,37.61,111,27,Diseased
+99,37.11,151,53,Normal
+97,36.69,137,51,Normal
+95,37.35,134,42,Normal
+98,37.37,136,55,Normal
+85,39.02,66,10,Highly Diseased
+82,38.85,87,13,Highly Diseased
+85,39.98,60,13,Highly Diseased
+88,37.78,105,20,Diseased
+91,37.95,102,26,Diseased
+81,39.71,92,16,Highly Diseased
+81,38.78,70,17,Highly Diseased
+83,39.04,70,10,Highly Diseased
+83,39.51,73,16,Highly Diseased
+92,38.17,107,24,Diseased
+84,39.22,60,14,Highly Diseased
+86,38.62,70,12,Highly Diseased
+85,38.96,68,12,Highly Diseased
+99,37.44,125,41,Normal
+93,37.72,116,25,Diseased
+88,38.06,107,28,Diseased
+86,39.49,83,16,Highly Diseased
+99,36.76,155,47,Normal
+91,38.34,110,21,Diseased
+97,37.18,138,33,Normal
+92,37.7,107,26,Diseased
+89,38.02,100,25,Diseased
+88,37.84,115,26,Diseased
+99,36.69,146,53,Normal
+89,38.32,116,21,Diseased
+89,38.47,115,20,Diseased
+95,36.65,125,39,Normal
+85,39.14,86,18,Highly Diseased
+85,38.68,61,15,Highly Diseased
+83,38.78,64,17,Highly Diseased
+84,39.76,85,17,Highly Diseased
+85,39.54,78,13,Highly Diseased
+90,37.92,118,21,Diseased
+93,38.22,100,25,Diseased
+97,36.71,146,46,Normal
+98,37.23,127,30,Normal
+95,36.7,150,34,Normal
+82,39.11,97,15,Highly Diseased
+95,37.37,157,36,Normal
+96,36.67,136,59,Normal
+80,39.52,98,17,Highly Diseased
+97,37.3,130,31,Normal
+82,39.96,60,18,Highly Diseased
+90,38.18,118,23,Diseased
+95,36.52,151,55,Normal
+91,37.9,110,28,Diseased
+88,37.62,105,20,Diseased
+98,37.12,128,54,Normal
+83,39.49,64,11,Highly Diseased
+96,36.57,137,42,Normal
+93,37.87,111,21,Diseased
+89,37.84,117,23,Diseased
+93,38.19,101,22,Diseased
+93,38.27,102,24,Diseased
+97,37.03,139,44,Normal
+91,38.19,100,26,Diseased
+96,36.61,153,47,Normal
+96,36.87,133,39,Normal
+84,39.44,76,17,Highly Diseased
+85,39.36,85,18,Highly Diseased
+89,37.64,115,24,Diseased
+97,37.23,149,53,Normal
+80,39.87,85,17,Highly Diseased
+90,38.29,107,22,Diseased
+90,38.15,102,20,Diseased
+95,37.24,140,46,Normal
+91,37.66,103,21,Diseased
+97,36.61,131,50,Normal
+91,37.66,100,20,Diseased
+97,36.83,130,38,Normal
+99,37.31,128,31,Normal
+95,37.42,146,50,Normal
+81,39.8,65,16,Highly Diseased
+82,39.87,66,14,Highly Diseased
+92,37.9,111,22,Diseased
+81,39.63,80,14,Highly Diseased
+83,39.78,67,10,Highly Diseased
+85,39.76,96,10,Highly Diseased
+86,38.89,95,10,Highly Diseased
+89,38.05,118,22,Diseased
+90,38.11,118,26,Diseased
+85,39.77,74,11,Highly Diseased
+98,36.77,159,37,Normal
+88,38.44,111,22,Diseased
+95,36.93,152,41,Normal
+84,39.31,74,12,Highly Diseased
+80,38.99,76,18,Highly Diseased
+99,36.99,129,54,Normal
+80,39.05,84,11,Highly Diseased
+88,37.92,116,26,Diseased
+81,39.67,85,16,Highly Diseased
+82,39.24,64,11,Highly Diseased
+92,38.11,107,25,Diseased
+92,38.14,109,26,Diseased
+84,38.63,75,18,Highly Diseased
+93,38.05,117,20,Diseased
+81,38.96,60,12,Highly Diseased
+88,38.44,113,23,Diseased
+82,39.43,92,10,Highly Diseased
+90,37.69,102,26,Diseased
+89,37.78,117,25,Diseased
+89,38.08,117,28,Diseased
+91,37.86,117,26,Diseased
+81,38.61,84,11,Highly Diseased
+83,39.18,63,16,Highly Diseased
+80,39.08,81,14,Highly Diseased
+89,38.4,103,23,Diseased
+81,39.29,78,16,Highly Diseased
+97,36.69,152,42,Normal
+82,38.78,91,11,Highly Diseased
+97,36.51,149,56,Normal
+98,36.52,130,37,Normal
+84,38.75,85,17,Highly Diseased
+97,36.74,122,49,Normal
+81,39.1,90,15,Highly Diseased
+82,39.41,95,17,Highly Diseased
+99,37.32,121,53,Normal
+90,38.0,101,21,Diseased
+89,37.64,105,24,Diseased
+82,39.91,96,10,Highly Diseased
+97,37.47,139,56,Normal
+86,39.8,79,11,Highly Diseased
+86,39.4,75,14,Highly Diseased
+93,38.25,109,27,Diseased
+86,39.47,81,10,Highly Diseased
+96,37.17,155,34,Normal
+96,37.29,131,53,Normal
+86,38.69,80,11,Highly Diseased
+95,36.55,139,39,Normal
+97,36.6,135,34,Normal
+95,37.29,150,31,Normal
+92,37.74,106,22,Diseased
+91,37.76,109,24,Diseased
+89,38.04,104,27,Diseased
+90,38.06,116,23,Diseased
+96,37.26,148,38,Normal
+88,38.39,112,26,Diseased
+83,38.95,98,11,Highly Diseased
+95,36.59,150,33,Normal
+91,37.81,102,26,Diseased
+98,37.45,148,39,Normal
+96,37.16,156,40,Normal
+89,38.41,117,27,Diseased
+83,39.23,61,13,Highly Diseased
+97,37.31,159,41,Normal
+99,36.64,155,39,Normal
+82,39.11,97,10,Highly Diseased
+80,38.62,80,11,Highly Diseased
+85,39.1,92,18,Highly Diseased
+84,38.72,83,17,Highly Diseased
+90,38.03,116,20,Diseased
+95,37.13,127,45,Normal
+88,38.36,112,28,Diseased
+99,37.29,134,36,Normal
+95,37.15,146,44,Normal
+85,39.9,84,16,Highly Diseased
+86,39.94,61,11,Highly Diseased
+97,36.56,142,53,Normal
+95,37.08,146,54,Normal
+97,36.6,143,32,Normal
+90,38.14,102,28,Diseased
+99,36.87,122,46,Normal
+95,36.88,120,46,Normal
+88,38.26,112,27,Diseased
+91,38.33,107,26,Diseased
+84,38.82,84,15,Highly Diseased
+89,37.64,115,21,Diseased
+95,37.07,157,59,Normal
+93,38.28,105,25,Diseased
+83,39.54,84,12,Highly Diseased
+93,37.62,115,27,Diseased
+85,39.28,91,16,Highly Diseased
+84,39.13,92,17,Highly Diseased
+83,39.29,83,12,Highly Diseased
+95,37.28,120,31,Normal
+98,37.24,145,39,Normal
+80,38.69,88,15,Highly Diseased
+95,36.62,157,39,Normal
+98,36.59,146,49,Normal
+89,38.32,108,23,Diseased
+84,39.14,90,17,Highly Diseased
+86,39.85,93,11,Highly Diseased
+80,39.88,63,13,Highly Diseased
+85,39.19,74,17,Highly Diseased
+81,39.28,73,10,Highly Diseased
+93,38.0,111,21,Diseased
+96,37.01,128,34,Normal
+89,37.8,101,20,Diseased
+90,38.12,118,28,Diseased
+95,36.57,130,52,Normal
+98,36.96,148,37,Normal
+83,39.4,60,16,Highly Diseased
+98,37.0,149,52,Normal
+81,39.97,89,12,Highly Diseased
+91,37.64,115,21,Diseased
+91,37.62,101,21,Diseased
+97,37.01,149,39,Normal
+84,38.83,64,17,Highly Diseased
+90,37.93,100,22,Diseased
+90,38.33,116,21,Diseased
+99,36.6,124,38,Normal
+82,39.25,81,13,Highly Diseased
+80,38.84,94,16,Highly Diseased
+80,39.8,65,10,Highly Diseased
+96,36.92,130,59,Normal
+99,37.39,138,51,Normal
+82,39.94,93,13,Highly Diseased
+86,39.69,85,13,Highly Diseased
+88,38.07,100,28,Diseased
+91,37.69,106,23,Diseased
+92,37.69,109,26,Diseased
+99,37.13,137,48,Normal
+96,36.55,157,58,Normal
+90,37.73,113,27,Diseased
+83,38.62,69,15,Highly Diseased
+81,39.92,62,15,Highly Diseased
+93,37.73,114,20,Diseased
+96,36.68,135,48,Normal
+83,39.33,76,14,Highly Diseased
+92,38.5,105,24,Diseased
+92,38.07,112,22,Diseased
+91,38.13,108,27,Diseased
+81,38.95,78,12,Highly Diseased
+89,38.09,102,23,Diseased
+85,38.69,75,16,Highly Diseased
+97,37.29,151,50,Normal
+98,36.87,124,57,Normal
+89,38.38,105,21,Diseased
+83,39.41,97,17,Highly Diseased
+81,39.71,79,17,Highly Diseased
+89,37.9,117,24,Diseased
+86,39.98,68,14,Highly Diseased
+81,39.2,91,14,Highly Diseased
+97,36.62,147,48,Normal
+83,39.79,90,14,Highly Diseased
+95,37.18,138,36,Normal
+80,38.68,68,15,Highly Diseased
+82,39.4,77,15,Highly Diseased
+98,37.22,144,53,Normal
+82,39.13,78,13,Highly Diseased
+91,38.09,108,22,Diseased
+81,39.79,69,15,Highly Diseased
+91,38.29,106,22,Diseased
+89,37.75,105,20,Diseased
+95,37.16,126,33,Normal
+92,37.82,105,24,Diseased
+98,37.08,132,46,Normal
+86,38.93,78,17,Highly Diseased
+80,39.72,91,10,Highly Diseased
+97,37.5,134,36,Normal
+97,36.87,147,45,Normal
+81,39.61,68,13,Highly Diseased
+88,38.25,108,20,Diseased
+99,36.83,124,48,Normal
+86,39.64,94,10,Highly Diseased
+96,37.36,147,54,Normal
+84,39.37,73,15,Highly Diseased
+84,39.78,76,11,Highly Diseased
+91,37.72,109,21,Diseased
+93,38.08,114,28,Diseased
+98,37.39,129,48,Normal
+99,36.73,140,31,Normal
+80,39.34,89,10,Highly Diseased
+91,38.12,115,22,Diseased
+88,38.23,105,24,Diseased
+83,38.68,64,16,Highly Diseased
+99,36.78,144,34,Normal
+80,38.94,85,13,Highly Diseased
+88,38.0,112,22,Diseased
+95,36.63,151,37,Normal
+97,37.09,141,37,Normal
+86,39.19,70,10,Highly Diseased
+97,37.2,148,51,Normal
+81,39.97,65,15,Highly Diseased
+95,36.92,154,36,Normal
+91,38.2,115,20,Diseased
+96,36.79,130,56,Normal
+96,37.14,131,40,Normal
+99,36.92,138,33,Normal
+99,37.09,125,56,Normal
+82,39.96,85,11,Highly Diseased
+81,39.87,83,14,Highly Diseased
+98,37.27,147,50,Normal
+85,39.17,97,12,Highly Diseased
+86,38.72,80,12,Highly Diseased
+91,38.33,116,28,Diseased
+83,39.29,68,16,Highly Diseased
+99,37.08,135,36,Normal
+97,36.88,136,52,Normal
+92,38.16,114,25,Diseased
+95,37.0,146,56,Normal
+95,37.47,150,40,Normal
+93,38.43,114,26,Diseased
+82,39.8,68,11,Highly Diseased
+91,37.61,107,26,Diseased
+90,38.11,110,20,Diseased
+96,37.14,141,49,Normal
+90,37.97,108,23,Diseased
+83,39.92,90,12,Highly Diseased
+92,37.83,109,20,Diseased
+83,39.88,69,11,Highly Diseased
+90,38.3,106,20,Diseased
+96,36.59,124,49,Normal
+91,38.41,103,22,Diseased
+88,38.08,110,27,Diseased
+92,38.16,103,22,Diseased
+84,39.65,74,17,Highly Diseased
+86,39.98,64,13,Highly Diseased
+96,36.7,147,32,Normal
+95,37.16,144,57,Normal
+80,39.67,62,11,Highly Diseased
+97,37.09,123,42,Normal
+84,39.74,65,17,Highly Diseased
+91,38.15,109,25,Diseased
+84,39.36,73,12,Highly Diseased
+98,36.65,158,50,Normal
+99,37.37,141,53,Normal
+95,36.55,127,34,Normal
+85,39.14,79,16,Highly Diseased
+90,37.81,105,25,Diseased
+88,37.76,118,25,Diseased
+81,39.02,77,13,Highly Diseased
+91,38.44,107,25,Diseased
+98,37.25,135,59,Normal
+91,38.41,118,28,Diseased
+91,37.97,103,27,Diseased
+97,37.26,122,57,Normal
+90,37.94,109,22,Diseased
+88,38.33,107,27,Diseased
+96,36.83,141,47,Normal
+98,36.56,129,59,Normal
+99,37.19,155,33,Normal
+99,36.84,122,31,Normal
+90,38.42,110,25,Diseased
+96,36.74,139,31,Normal
+85,39.32,65,17,Highly Diseased
+95,37.4,142,47,Normal
+93,38.06,109,22,Diseased
+86,39.38,81,14,Highly Diseased
+88,38.22,111,27,Diseased
+88,37.93,100,23,Diseased
+97,36.92,159,37,Normal
+92,37.86,113,24,Diseased
+88,37.64,103,21,Diseased
+93,38.45,101,20,Diseased
+96,37.17,139,47,Normal
+99,36.8,148,34,Normal
+90,37.68,106,22,Diseased
+99,36.89,130,56,Normal
+85,39.94,77,17,Highly Diseased
+97,37.34,122,56,Normal
+89,37.68,116,21,Diseased
+89,38.09,109,27,Diseased
+90,38.42,105,24,Diseased
+88,37.98,100,20,Diseased
+99,36.65,128,49,Normal
+99,36.92,147,36,Normal
+96,37.14,131,59,Normal
+80,39.17,72,17,Highly Diseased
+90,38.03,107,23,Diseased
+95,37.01,132,59,Normal
+98,36.78,130,52,Normal
+96,37.48,125,37,Normal
+81,39.84,82,12,Highly Diseased
+89,37.91,113,27,Diseased
+86,39.61,78,15,Highly Diseased
+90,38.25,115,26,Diseased
+97,37.48,123,41,Normal
+98,37.36,127,55,Normal
+88,37.7,118,21,Diseased
+96,37.01,144,53,Normal
+96,37.23,158,35,Normal
+90,38.45,116,28,Diseased
+93,37.62,115,28,Diseased
+89,38.08,116,28,Diseased
+97,37.2,127,30,Normal
+96,36.54,150,45,Normal
+91,37.75,111,27,Diseased
+92,38.12,104,20,Diseased
+90,37.73,117,22,Diseased
+91,38.2,105,26,Diseased
+83,39.01,93,13,Highly Diseased
+81,38.68,84,12,Highly Diseased
+99,37.31,158,59,Normal
+91,37.91,118,24,Diseased
+85,39.07,63,16,Highly Diseased
+86,38.79,69,18,Highly Diseased
+95,36.96,128,35,Normal
+82,38.65,77,17,Highly Diseased
+95,37.04,139,35,Normal
+95,37.0,149,58,Normal
+88,37.72,113,28,Diseased
+84,39.48,94,16,Highly Diseased
+90,37.66,106,25,Diseased
+96,37.12,138,57,Normal
+85,39.79,60,12,Highly Diseased
+82,39.15,91,15,Highly Diseased
+99,37.17,141,38,Normal
+83,39.81,98,11,Highly Diseased
+86,39.77,83,12,Highly Diseased
+81,39.48,76,14,Highly Diseased
+86,39.18,80,18,Highly Diseased
+91,37.67,104,26,Diseased
+98,37.06,155,57,Normal
+98,36.57,150,42,Normal
+95,37.49,120,39,Normal
+95,36.61,151,51,Normal
+82,39.38,87,11,Highly Diseased
+96,37.28,130,42,Normal
+90,37.93,116,25,Diseased
+85,39.08,60,11,Highly Diseased
+83,39.99,67,15,Highly Diseased
+92,38.1,110,26,Diseased
+95,37.02,129,47,Normal
+86,39.14,71,15,Highly Diseased
+90,38.28,108,26,Diseased
+89,38.04,110,20,Diseased
+86,39.98,97,12,Highly Diseased
+93,37.61,116,20,Diseased
+91,38.49,106,28,Diseased
+83,38.64,80,14,Highly Diseased
+83,38.79,82,12,Highly Diseased
+99,36.95,143,44,Normal
+82,39.8,76,16,Highly Diseased
+84,39.82,95,11,Highly Diseased
+91,37.9,104,20,Diseased
+86,38.67,69,10,Highly Diseased
+91,37.73,104,28,Diseased
+83,38.88,88,13,Highly Diseased
+89,38.4,113,21,Diseased
+96,37.08,148,47,Normal
+95,37.45,149,45,Normal
+88,37.66,103,27,Diseased
+89,37.82,115,28,Diseased
+84,39.05,71,18,Highly Diseased
+81,39.71,89,12,Highly Diseased
+85,39.3,86,18,Highly Diseased
+99,37.17,157,44,Normal
+90,38.11,108,26,Diseased
+95,36.61,139,49,Normal
+88,38.27,110,27,Diseased
+90,38.27,110,25,Diseased
+83,39.55,82,16,Highly Diseased
+98,36.54,137,32,Normal
+93,38.14,112,25,Diseased
+83,39.2,91,18,Highly Diseased
+86,39.16,84,18,Highly Diseased
+89,38.39,113,21,Diseased
+89,37.93,117,21,Diseased
+95,36.99,147,56,Normal
+88,37.82,115,23,Diseased
+82,38.68,67,12,Highly Diseased
+99,36.77,129,53,Normal
+84,39.35,90,15,Highly Diseased
+98,36.69,142,56,Normal
+83,39.55,95,18,Highly Diseased
+92,38.26,105,28,Diseased
+81,38.63,89,17,Highly Diseased
+88,37.83,107,25,Diseased
+98,37.27,136,48,Normal
+89,37.68,112,20,Diseased
+83,39.73,73,12,Highly Diseased
+95,36.72,122,50,Normal
+83,39.07,80,12,Highly Diseased
+96,37.24,138,47,Normal
+95,36.59,124,45,Normal
+81,39.23,78,10,Highly Diseased
+88,38.09,102,23,Diseased
+89,38.36,108,27,Diseased
+88,37.96,116,23,Diseased
+88,37.84,111,20,Diseased
+90,38.31,105,20,Diseased
+86,38.97,62,18,Highly Diseased
+98,36.66,154,54,Normal
+98,36.82,157,32,Normal
+97,37.49,133,59,Normal
+90,37.93,100,23,Diseased
+84,39.96,88,13,Highly Diseased
+95,36.68,133,34,Normal
+85,39.74,65,18,Highly Diseased
+86,39.0,84,13,Highly Diseased
+80,39.86,70,16,Highly Diseased
+84,39.07,74,17,Highly Diseased
+91,38.24,117,23,Diseased
+97,36.88,141,40,Normal
+84,39.77,60,18,Highly Diseased
+83,39.29,91,14,Highly Diseased
+96,36.61,154,51,Normal
+92,38.31,113,21,Diseased
+88,38.44,105,20,Diseased
+82,39.24,91,12,Highly Diseased
+91,38.21,110,23,Diseased
+99,37.39,137,55,Normal
+88,37.86,118,20,Diseased
+92,38.46,112,21,Diseased
+82,39.62,65,16,Highly Diseased
+96,37.07,142,56,Normal
+98,36.9,149,52,Normal
+83,38.84,62,14,Highly Diseased
+82,39.94,75,10,Highly Diseased
+89,37.81,117,28,Diseased
+93,38.35,118,22,Diseased
+85,38.8,62,15,Highly Diseased
+89,37.62,100,26,Diseased
+81,39.13,78,13,Highly Diseased
+95,36.71,125,57,Normal
+82,38.63,71,13,Highly Diseased
+93,38.16,101,23,Diseased
+80,38.62,94,10,Highly Diseased
+90,38.14,101,20,Diseased
+93,37.63,103,28,Diseased
+95,36.83,148,34,Normal
+89,38.14,103,27,Diseased
+89,38.09,108,22,Diseased
+96,37.35,137,58,Normal
+84,39.86,76,15,Highly Diseased
+95,37.12,123,59,Normal
+83,39.23,65,10,Highly Diseased
+96,37.49,123,46,Normal
+97,36.54,153,57,Normal
+84,38.66,96,16,Highly Diseased
+86,39.66,73,15,Highly Diseased
+82,38.89,65,11,Highly Diseased
+80,38.95,63,10,Highly Diseased
+81,38.73,61,11,Highly Diseased
+95,37.47,126,38,Normal
+95,36.96,138,50,Normal
+92,38.23,110,26,Diseased
+86,39.0,67,14,Highly Diseased
+98,37.32,133,53,Normal
+88,38.08,102,28,Diseased
+86,39.59,86,16,Highly Diseased
+93,37.92,109,25,Diseased
+80,39.14,93,16,Highly Diseased
+95,36.61,132,42,Normal
+98,36.54,132,38,Normal
+92,37.97,108,23,Diseased
+99,37.23,125,40,Normal
+89,38.04,112,20,Diseased
+93,38.46,115,24,Diseased
+82,39.69,64,13,Highly Diseased
+85,38.79,76,18,Highly Diseased
+83,39.79,75,17,Highly Diseased
+89,38.05,101,20,Diseased
+98,36.94,153,50,Normal
+99,36.79,134,39,Normal
+93,38.41,105,26,Diseased
+93,37.85,104,21,Diseased
+97,36.83,153,30,Normal
+97,37.06,151,40,Normal
+80,38.92,80,14,Highly Diseased
+88,37.77,110,22,Diseased
+83,38.68,62,11,Highly Diseased
+95,36.52,144,59,Normal
+83,38.89,84,11,Highly Diseased
+96,37.41,124,41,Normal
+80,38.66,74,12,Highly Diseased
+84,39.67,74,18,Highly Diseased
+81,39.1,82,16,Highly Diseased
+98,37.05,126,53,Normal
+89,37.9,102,20,Diseased
+89,37.93,106,23,Diseased
+82,38.73,70,11,Highly Diseased
+98,36.81,139,45,Normal
+85,38.75,83,12,Highly Diseased
+93,37.98,101,28,Diseased
+98,37.07,127,53,Normal
+95,37.32,122,30,Normal
+96,37.25,153,30,Normal
+85,39.75,77,15,Highly Diseased
+86,38.93,70,17,Highly Diseased
+82,39.32,63,14,Highly Diseased
+83,38.62,85,10,Highly Diseased
+90,38.34,109,20,Diseased
+98,36.56,145,30,Normal
+97,36.92,127,55,Normal
+88,37.89,100,25,Diseased
+84,38.75,60,16,Highly Diseased
+86,38.93,96,14,Highly Diseased
+92,38.47,115,26,Diseased
+86,39.6,72,13,Highly Diseased
+97,36.73,143,49,Normal
+92,37.83,103,25,Diseased
+80,39.13,67,15,Highly Diseased
+89,38.17,109,22,Diseased
+97,37.31,137,42,Normal
+84,39.39,75,17,Highly Diseased
+98,37.01,134,45,Normal
+96,37.1,155,58,Normal
+89,37.91,102,28,Diseased
+95,36.72,157,40,Normal
+88,38.31,107,25,Diseased
+84,39.31,93,15,Highly Diseased
+90,37.7,109,20,Diseased
+83,39.48,68,15,Highly Diseased
+86,39.26,74,18,Highly Diseased
+80,39.55,66,11,Highly Diseased
+89,37.78,103,22,Diseased
+90,37.99,109,24,Diseased
+88,37.71,116,27,Diseased
+95,37.27,154,53,Normal
+86,39.07,73,15,Highly Diseased
+86,38.91,77,16,Highly Diseased
+86,39.76,71,10,Highly Diseased
+83,39.92,62,10,Highly Diseased
+98,37.07,141,52,Normal
+95,36.84,122,52,Normal
+80,38.95,64,15,Highly Diseased
+97,37.35,151,44,Normal
+83,38.62,64,10,Highly Diseased
+83,39.18,82,12,Highly Diseased
+88,37.89,102,23,Diseased
+86,39.86,80,17,Highly Diseased
+89,38.14,118,20,Diseased
+97,37.17,144,39,Normal
+90,37.98,103,26,Diseased
+98,36.89,124,33,Normal
+90,38.37,111,20,Diseased
+92,38.46,110,24,Diseased
+98,37.3,157,32,Normal
+99,37.17,144,53,Normal
+96,36.58,159,35,Normal
+85,38.69,97,11,Highly Diseased
+88,38.2,110,22,Diseased
+99,37.44,121,57,Normal
+89,37.96,107,22,Diseased
+99,37.02,156,42,Normal
+95,36.83,138,32,Normal
+88,38.32,118,26,Diseased
+93,38.44,112,22,Diseased
+95,36.61,145,41,Normal
+98,36.86,133,49,Normal
+96,36.93,135,33,Normal
+92,38.21,110,25,Diseased
+83,39.1,72,18,Highly Diseased
+97,37.24,155,47,Normal
+96,37.39,131,49,Normal
+93,38.41,101,20,Diseased
+86,39.92,97,14,Highly Diseased
+90,38.36,112,20,Diseased
+99,36.86,145,40,Normal
+99,37.26,155,58,Normal
+99,36.67,122,39,Normal
+88,38.03,114,27,Diseased
+92,37.68,116,26,Diseased
+91,37.83,102,20,Diseased
+83,39.11,80,16,Highly Diseased
+83,39.93,72,18,Highly Diseased
+95,36.62,150,52,Normal
+91,37.84,105,26,Diseased
+81,39.56,88,17,Highly Diseased
+98,36.78,134,55,Normal
+97,36.58,136,30,Normal
+98,36.82,158,37,Normal
+83,39.11,77,17,Highly Diseased
+92,37.68,111,22,Diseased
+82,39.88,71,17,Highly Diseased
+88,38.04,117,23,Diseased
+81,38.85,95,16,Highly Diseased
+97,37.1,129,32,Normal
+91,38.2,104,28,Diseased
+88,37.68,114,25,Diseased
+97,37.46,123,41,Normal
+97,37.15,153,44,Normal
+89,38.2,105,25,Diseased
+82,39.76,92,14,Highly Diseased
+96,36.61,134,38,Normal
+95,36.8,146,56,Normal
+95,36.83,157,37,Normal
+88,37.82,114,24,Diseased
+95,36.54,155,53,Normal
+88,38.48,116,27,Diseased
+99,37.07,140,56,Normal
+93,37.66,105,22,Diseased
+96,36.78,122,55,Normal
+90,38.25,114,24,Diseased
+90,38.39,101,21,Diseased
+84,38.83,67,13,Highly Diseased
+85,39.99,78,14,Highly Diseased
+82,39.06,62,13,Highly Diseased
+82,39.71,73,17,Highly Diseased
+97,37.01,135,42,Normal
+97,37.29,151,48,Normal
+96,37.14,135,37,Normal
+92,38.11,101,21,Diseased
+99,37.14,122,43,Normal
+88,37.72,115,21,Diseased
+83,39.95,74,17,Highly Diseased
+97,36.94,129,50,Normal
+99,36.95,124,37,Normal
+93,38.01,102,20,Diseased
+89,38.43,114,26,Diseased
+93,38.21,102,28,Diseased
+89,38.39,103,26,Diseased
+97,37.49,120,30,Normal
+95,36.65,156,58,Normal
+90,38.38,116,24,Diseased
+93,38.13,100,24,Diseased
+95,37.33,134,41,Normal
+84,38.66,86,16,Highly Diseased
+90,38.17,117,23,Diseased
+84,39.84,66,11,Highly Diseased
+80,39.2,86,17,Highly Diseased
+82,39.94,69,18,Highly Diseased
+96,36.93,151,30,Normal
+85,39.94,88,18,Highly Diseased
+88,37.82,107,24,Diseased
+86,39.59,83,17,Highly Diseased
+81,39.76,61,12,Highly Diseased
+88,37.86,112,27,Diseased
+88,38.35,116,26,Diseased
+82,39.48,83,13,Highly Diseased
+99,36.88,134,47,Normal
+82,39.8,80,15,Highly Diseased
+89,38.28,104,25,Diseased
+99,36.52,134,49,Normal
+83,39.02,88,16,Highly Diseased
+95,36.52,145,40,Normal
+97,37.3,120,52,Normal
+95,37.21,131,45,Normal
+80,38.81,61,12,Highly Diseased
+89,38.48,117,20,Diseased
+80,39.72,92,11,Highly Diseased
+95,36.71,131,50,Normal
+95,37.24,159,59,Normal
+89,38.44,112,21,Diseased
+89,37.75,107,23,Diseased
+98,36.82,120,59,Normal
+93,38.32,118,21,Diseased
+81,39.27,71,15,Highly Diseased
+91,38.39,113,25,Diseased
+81,39.16,67,16,Highly Diseased
+85,39.16,87,17,Highly Diseased
+91,37.9,106,23,Diseased
+93,37.63,115,20,Diseased
+96,37.05,145,44,Normal
+97,36.81,142,54,Normal
+97,37.08,146,40,Normal
+96,36.95,149,59,Normal
+98,37.04,140,49,Normal
+93,38.5,115,25,Diseased
+84,39.16,96,13,Highly Diseased
+82,39.15,67,14,Highly Diseased
+86,39.93,66,18,Highly Diseased
+83,39.33,69,14,Highly Diseased
+97,37.2,142,53,Normal
+93,38.34,117,26,Diseased
+85,39.93,95,10,Highly Diseased
+95,37.31,128,36,Normal
+98,36.57,135,59,Normal
+83,39.22,79,11,Highly Diseased
+80,38.8,66,11,Highly Diseased
+96,37.29,151,52,Normal
+92,38.29,100,23,Diseased
+86,39.24,97,11,Highly Diseased
+98,36.83,142,45,Normal
+99,37.34,120,47,Normal
+95,36.64,146,42,Normal
+99,36.99,135,56,Normal
+86,39.07,72,11,Highly Diseased
+92,38.16,107,21,Diseased
+95,37.2,156,53,Normal
+88,38.0,108,24,Diseased
+97,36.95,144,42,Normal
+84,39.56,85,13,Highly Diseased
+99,36.66,145,32,Normal
+91,37.88,102,28,Diseased
+81,38.74,97,18,Highly Diseased
+89,37.65,101,28,Diseased
+80,39.04,88,17,Highly Diseased
+99,37.29,129,37,Normal
+84,39.75,83,14,Highly Diseased
+96,36.83,133,44,Normal
+92,38.04,100,27,Diseased
+93,38.35,114,21,Diseased
+83,39.8,74,12,Highly Diseased
+93,38.2,107,21,Diseased
+80,38.78,83,15,Highly Diseased
+92,38.02,101,24,Diseased
+81,39.78,93,14,Highly Diseased
+91,38.25,118,28,Diseased
+97,37.01,154,38,Normal
+90,37.93,116,26,Diseased
+96,37.28,140,47,Normal
+99,37.17,153,49,Normal
+99,37.24,137,34,Normal
+88,37.74,109,24,Diseased
+96,36.81,143,39,Normal
+81,39.88,80,18,Highly Diseased
+85,39.45,66,15,Highly Diseased
+89,38.04,115,25,Diseased
+80,39.64,93,18,Highly Diseased
+92,37.82,101,27,Diseased
+80,38.61,82,12,Highly Diseased
+97,36.84,137,35,Normal
+85,38.67,81,11,Highly Diseased
+99,36.71,128,50,Normal
+83,38.95,95,13,Highly Diseased
+99,36.52,121,48,Normal
+82,39.45,74,12,Highly Diseased
+95,36.71,131,56,Normal
+80,39.94,78,11,Highly Diseased
+95,37.03,143,32,Normal
+91,37.93,111,24,Diseased
+88,37.89,116,25,Diseased
+96,36.55,142,47,Normal
+99,37.22,137,35,Normal
+99,37.35,156,35,Normal
+91,38.11,104,21,Diseased
+98,36.63,156,37,Normal
+92,37.65,116,25,Diseased
+83,39.93,76,12,Highly Diseased
+91,38.35,101,26,Diseased
+83,39.96,90,13,Highly Diseased
+93,37.65,116,28,Diseased
+81,39.81,62,15,Highly Diseased
+98,37.5,145,44,Normal
+98,36.65,151,43,Normal
+90,38.49,100,28,Diseased
+95,37.0,145,47,Normal
+95,37.16,140,33,Normal
+85,39.15,82,12,Highly Diseased
+95,37.49,139,53,Normal
+98,37.09,142,42,Normal
+83,39.74,88,11,Highly Diseased
+85,38.69,67,10,Highly Diseased
+83,38.94,87,10,Highly Diseased
+96,37.15,146,59,Normal
+99,37.1,152,53,Normal
+88,38.16,101,26,Diseased
+98,36.77,148,32,Normal
+99,37.2,134,31,Normal
+97,36.93,150,58,Normal
+90,38.47,109,21,Diseased
+89,38.22,103,20,Diseased
+91,37.74,104,28,Diseased
+92,37.7,105,23,Diseased
+84,38.71,86,13,Highly Diseased
+97,37.3,152,37,Normal
+98,36.6,128,35,Normal
+85,39.28,74,11,Highly Diseased
+82,38.88,86,16,Highly Diseased
+93,37.97,101,21,Diseased
+86,39.42,76,14,Highly Diseased
+99,36.66,137,55,Normal
+88,38.48,112,20,Diseased
+82,39.61,94,18,Highly Diseased
+86,39.98,91,10,Highly Diseased
+95,36.79,152,41,Normal
+84,39.54,76,12,Highly Diseased
+86,39.14,73,10,Highly Diseased
+91,37.81,108,26,Diseased
+91,37.83,114,23,Diseased
+95,37.46,156,31,Normal
+96,36.68,159,36,Normal
+97,37.02,158,39,Normal
+89,38.26,106,21,Diseased
+85,38.9,84,18,Highly Diseased
+86,39.36,78,11,Highly Diseased
+83,39.39,74,11,Highly Diseased
+88,37.94,109,26,Diseased
+81,38.6,84,14,Highly Diseased
+95,36.6,157,36,Normal
+82,39.56,88,10,Highly Diseased
+99,36.96,155,45,Normal
+92,38.07,103,21,Diseased
+99,36.92,125,50,Normal
+83,39.9,92,15,Highly Diseased
+90,38.38,117,23,Diseased
+98,36.53,132,51,Normal
+99,37.27,133,44,Normal
+97,36.84,125,33,Normal
+83,39.06,86,16,Highly Diseased
+95,37.13,144,39,Normal
+92,37.72,104,20,Diseased
+88,37.9,115,22,Diseased
+92,38.16,111,22,Diseased
+95,36.94,129,47,Normal
+91,38.17,106,24,Diseased
+91,38.31,112,26,Diseased
+84,38.71,97,15,Highly Diseased
+88,37.93,115,20,Diseased
+89,37.77,106,24,Diseased
+82,39.9,76,16,Highly Diseased
+97,36.99,122,34,Normal
+91,38.01,102,25,Diseased
+88,37.83,100,21,Diseased
+88,38.26,101,25,Diseased
+93,37.95,106,28,Diseased
+91,38.24,103,25,Diseased
+92,38.32,106,25,Diseased
+98,36.78,145,50,Normal
+80,39.46,72,10,Highly Diseased
+99,36.83,154,54,Normal
+90,38.16,107,24,Diseased
+99,36.53,127,55,Normal
+93,38.31,111,22,Diseased
+85,38.87,64,13,Highly Diseased
+92,37.86,116,20,Diseased
+95,37.41,154,43,Normal
+99,36.66,155,57,Normal
+80,39.01,74,16,Highly Diseased
+85,39.01,76,15,Highly Diseased
+89,37.81,109,20,Diseased
+91,38.04,108,22,Diseased
+90,37.7,111,25,Diseased
+98,37.39,153,39,Normal
+81,39.5,81,15,Highly Diseased
+88,37.89,115,26,Diseased
+95,36.59,135,31,Normal
+92,38.3,107,27,Diseased
+80,39.88,78,17,Highly Diseased
+95,36.78,131,57,Normal
+90,37.97,114,22,Diseased
+95,36.66,128,53,Normal
+88,38.15,109,20,Diseased
+82,39.28,85,15,Highly Diseased
+96,36.99,134,58,Normal
+97,37.34,141,46,Normal
+91,38.04,106,22,Diseased
+83,39.67,72,11,Highly Diseased
+99,37.22,139,43,Normal
+95,36.51,154,44,Normal
+86,39.77,98,12,Highly Diseased
+80,39.71,64,14,Highly Diseased
+86,39.36,81,17,Highly Diseased
+92,38.38,118,28,Diseased
+91,38.22,101,22,Diseased
+81,38.63,95,14,Highly Diseased
+93,38.1,104,24,Diseased
+98,36.86,123,52,Normal
+80,39.75,89,17,Highly Diseased
+84,39.43,78,17,Highly Diseased
+97,37.14,155,46,Normal
+89,37.98,107,24,Diseased
+91,37.93,108,20,Diseased
+93,37.82,107,23,Diseased
+80,38.74,94,17,Highly Diseased
+99,36.84,134,50,Normal
+81,39.17,93,13,Highly Diseased
+99,37.0,149,53,Normal
+91,38.19,109,20,Diseased
+82,39.02,98,14,Highly Diseased
+86,39.0,61,13,Highly Diseased
+82,39.61,60,10,Highly Diseased
+99,36.52,128,46,Normal
+90,38.39,106,26,Diseased
+82,39.45,80,10,Highly Diseased
+91,37.85,115,25,Diseased
+95,37.27,142,54,Normal
+86,38.86,94,15,Highly Diseased
+81,39.26,84,14,Highly Diseased
+93,37.9,109,27,Diseased
+99,36.89,146,59,Normal
+93,38.41,105,26,Diseased
+97,37.42,137,49,Normal
+99,36.82,128,38,Normal
+81,39.76,87,10,Highly Diseased
+83,39.82,65,12,Highly Diseased
+95,36.73,122,40,Normal
+97,36.96,143,34,Normal
+86,39.36,63,11,Highly Diseased
+86,38.76,69,12,Highly Diseased
+82,39.28,75,17,Highly Diseased
+99,36.83,145,39,Normal
+83,39.34,80,11,Highly Diseased
+83,39.98,61,15,Highly Diseased
+99,36.81,131,49,Normal
+93,38.24,101,28,Diseased
+86,39.46,68,16,Highly Diseased
+88,38.35,108,26,Diseased
+96,36.51,145,59,Normal
+93,37.95,104,26,Diseased
+84,39.62,76,12,Highly Diseased
+97,37.01,122,42,Normal
+81,39.08,63,13,Highly Diseased
+80,39.92,60,16,Highly Diseased
+89,38.17,105,21,Diseased
+98,36.97,145,47,Normal
+90,37.71,110,20,Diseased
+81,38.73,76,17,Highly Diseased
+91,38.32,117,23,Diseased
+80,39.19,74,17,Highly Diseased
+81,38.77,78,18,Highly Diseased
+82,39.51,72,18,Highly Diseased
+99,37.48,147,33,Normal
+96,36.99,149,39,Normal
+93,37.61,112,27,Diseased
+80,39.78,76,15,Highly Diseased
+83,39.85,90,16,Highly Diseased
+90,37.81,109,27,Diseased
+98,36.65,158,54,Normal
+96,36.98,136,32,Normal
+93,37.6,101,28,Diseased
+92,37.7,114,21,Diseased
+84,38.87,98,16,Highly Diseased
+98,36.73,142,46,Normal
+98,37.08,135,54,Normal
+90,38.19,111,22,Diseased
+91,38.0,107,21,Diseased
+96,37.33,149,41,Normal
+93,37.62,105,22,Diseased
+97,36.78,135,34,Normal
+84,39.84,79,13,Highly Diseased
+80,39.19,72,15,Highly Diseased
+83,38.89,89,14,Highly Diseased
+88,37.83,117,24,Diseased
+84,39.81,75,15,Highly Diseased
+95,37.14,122,46,Normal
+88,37.91,106,24,Diseased
+81,39.97,96,14,Highly Diseased
+96,37.43,147,46,Normal
+82,39.84,75,17,Highly Diseased
+96,37.32,127,36,Normal
+96,36.59,150,45,Normal
+85,39.5,95,15,Highly Diseased
+95,37.05,120,49,Normal
+96,36.63,122,42,Normal
+83,38.75,78,14,Highly Diseased
+80,38.87,88,10,Highly Diseased
+84,39.57,97,14,Highly Diseased
+86,38.66,64,17,Highly Diseased
+85,39.83,70,11,Highly Diseased
+98,36.81,136,32,Normal
+86,39.64,82,11,Highly Diseased
+98,36.61,131,33,Normal
+96,37.43,125,31,Normal
+84,39.87,90,11,Highly Diseased
+99,37.0,140,56,Normal
+93,38.27,103,21,Diseased
+89,38.22,112,21,Diseased
+88,37.6,105,26,Diseased
+83,39.86,81,17,Highly Diseased
+89,38.09,116,21,Diseased
+92,37.92,116,21,Diseased
+93,38.27,103,27,Diseased
+96,36.68,157,54,Normal
+95,36.86,122,52,Normal
+86,39.77,85,16,Highly Diseased
+93,37.64,113,24,Diseased
+93,38.02,111,27,Diseased
+96,37.02,152,53,Normal
+84,39.11,95,10,Highly Diseased
+92,38.22,116,23,Diseased
+82,39.64,72,11,Highly Diseased
+91,38.04,105,20,Diseased
+83,38.72,78,13,Highly Diseased
+86,39.34,79,18,Highly Diseased
+96,36.52,152,37,Normal
+80,39.22,89,10,Highly Diseased
+92,38.12,108,22,Diseased
+96,36.7,155,47,Normal
+89,37.8,105,21,Diseased
+93,38.39,117,22,Diseased
+90,37.84,115,22,Diseased
+88,38.24,107,28,Diseased
+81,39.3,83,10,Highly Diseased
+90,37.93,109,23,Diseased
+90,37.9,115,20,Diseased
+92,37.88,118,23,Diseased
+97,37.22,145,49,Normal
+99,37.03,145,42,Normal
+96,37.07,143,43,Normal
+99,36.7,127,31,Normal
+96,37.03,153,41,Normal
+92,37.99,112,20,Diseased
+99,36.71,149,36,Normal
+90,38.47,110,21,Diseased
+98,36.88,121,32,Normal
+99,36.97,130,33,Normal
+95,36.53,147,54,Normal
+91,38.31,109,24,Diseased
+98,37.17,144,42,Normal
+81,39.91,61,16,Highly Diseased
+89,37.88,118,25,Diseased
+96,37.32,132,54,Normal
+83,39.86,78,15,Highly Diseased
+90,38.46,106,23,Diseased
+98,36.9,150,46,Normal
+96,36.57,131,44,Normal
+86,39.5,92,15,Highly Diseased
+85,38.75,82,10,Highly Diseased
+82,39.92,90,12,Highly Diseased
+99,36.81,157,31,Normal
+96,37.12,152,34,Normal
+84,39.07,60,17,Highly Diseased
+96,36.71,140,45,Normal
+85,39.87,80,16,Highly Diseased
+99,37.04,135,43,Normal
+84,39.1,86,10,Highly Diseased
+86,39.09,75,16,Highly Diseased
+85,39.83,84,18,Highly Diseased
+97,36.66,145,58,Normal
+89,38.35,118,28,Diseased
+95,37.27,135,59,Normal
+93,37.78,109,22,Diseased
+80,39.16,75,10,Highly Diseased
+93,37.87,118,23,Diseased
+88,38.03,109,24,Diseased
+85,38.79,85,13,Highly Diseased
+89,38.22,100,26,Diseased
+98,37.04,141,58,Normal
+80,39.18,67,18,Highly Diseased
+95,37.02,152,49,Normal
+80,39.79,67,14,Highly Diseased
+84,39.99,84,10,Highly Diseased
+98,37.17,142,44,Normal
+95,37.16,128,48,Normal
+82,39.5,66,13,Highly Diseased
+97,36.71,144,43,Normal
+96,37.19,157,30,Normal
+99,37.29,137,39,Normal
+98,36.68,152,58,Normal
+96,37.29,131,44,Normal
+85,39.16,92,16,Highly Diseased
+89,38.09,101,28,Diseased
+80,39.45,67,16,Highly Diseased
+83,39.56,76,11,Highly Diseased
+91,38.36,106,26,Diseased
+81,39.93,89,18,Highly Diseased
+84,39.02,65,12,Highly Diseased
+93,38.28,114,28,Diseased
+85,38.96,81,10,Highly Diseased
+96,37.39,120,45,Normal
+89,37.71,115,20,Diseased
+82,39.97,63,18,Highly Diseased
+97,36.81,147,50,Normal
+91,37.75,102,20,Diseased
+88,37.61,115,25,Diseased
+82,39.36,63,16,Highly Diseased
+99,37.22,135,45,Normal
+96,36.83,151,36,Normal
+80,39.82,82,11,Highly Diseased
+85,39.3,78,13,Highly Diseased
+89,38.22,117,23,Diseased
+95,36.75,148,39,Normal
+84,38.94,77,11,Highly Diseased
+90,38.49,102,22,Diseased
+98,36.71,123,51,Normal
+95,37.42,154,56,Normal
+89,37.73,116,24,Diseased
+90,37.79,113,22,Diseased
+84,39.94,83,12,Highly Diseased
+97,36.96,134,47,Normal
+98,36.75,158,39,Normal
+95,36.74,145,54,Normal
+91,38.28,105,22,Diseased
+97,36.63,143,30,Normal
+82,39.67,68,15,Highly Diseased
+84,39.74,65,16,Highly Diseased
+93,38.45,115,25,Diseased
+92,38.26,110,24,Diseased
+89,37.8,104,24,Diseased
+86,39.01,81,15,Highly Diseased
+85,38.95,79,12,Highly Diseased
+86,39.28,65,12,Highly Diseased
+85,39.75,84,10,Highly Diseased
+89,37.62,104,25,Diseased
+86,39.66,84,14,Highly Diseased
+83,39.2,95,14,Highly Diseased
+88,37.85,114,25,Diseased
+84,38.78,68,11,Highly Diseased
+99,36.69,136,51,Normal
+81,39.6,95,11,Highly Diseased
+92,38.16,101,26,Diseased
+84,39.78,80,13,Highly Diseased
+83,38.92,75,15,Highly Diseased
+85,39.29,97,10,Highly Diseased
+89,38.07,110,26,Diseased
+97,37.05,120,37,Normal
+96,37.01,154,54,Normal
+81,39.03,96,15,Highly Diseased
+84,40.0,76,18,Highly Diseased
+85,39.58,97,14,Highly Diseased
+81,39.3,86,15,Highly Diseased
+84,39.16,64,10,Highly Diseased
+86,38.96,98,12,Highly Diseased
+81,40.0,76,11,Highly Diseased
+95,37.2,140,38,Normal
+98,36.95,134,32,Normal
+81,39.8,96,18,Highly Diseased
+99,36.63,154,45,Normal
+98,36.62,121,47,Normal
+95,36.77,121,33,Normal
+93,38.13,100,26,Diseased
+91,38.14,103,28,Diseased
+90,38.28,112,21,Diseased
+81,39.36,69,14,Highly Diseased
+84,39.38,61,14,Highly Diseased
+89,37.7,103,28,Diseased
+88,37.86,104,20,Diseased
+81,39.33,65,10,Highly Diseased
+90,37.93,117,24,Diseased
+92,37.75,102,22,Diseased
+85,39.7,65,15,Highly Diseased
+90,37.89,112,27,Diseased
+80,38.97,79,10,Highly Diseased
+85,39.03,64,15,Highly Diseased
+80,38.64,95,16,Highly Diseased
+99,36.7,139,55,Normal
+98,36.55,135,47,Normal
+97,37.28,126,46,Normal
+91,38.08,118,24,Diseased
+84,39.22,90,11,Highly Diseased
+89,37.94,109,26,Diseased
+98,36.64,134,43,Normal
+80,39.63,96,14,Highly Diseased
+89,38.02,114,24,Diseased
+85,39.83,70,13,Highly Diseased
+98,36.71,155,42,Normal
+90,37.83,109,22,Diseased
+80,39.17,92,14,Highly Diseased
+88,38.37,114,24,Diseased
+83,39.65,69,11,Highly Diseased
+96,37.17,121,35,Normal
+82,39.46,96,14,Highly Diseased
+95,37.16,125,35,Normal
+86,39.73,93,18,Highly Diseased
+80,39.61,76,16,Highly Diseased
+96,36.54,136,56,Normal
+92,38.12,102,25,Diseased
+93,37.95,118,22,Diseased
+86,39.51,79,17,Highly Diseased
+81,39.36,79,18,Highly Diseased
+98,37.29,130,33,Normal
+90,37.72,117,27,Diseased
+84,39.11,61,11,Highly Diseased
+86,39.41,75,13,Highly Diseased
+83,39.69,77,10,Highly Diseased
+81,39.88,90,13,Highly Diseased
+98,37.32,141,34,Normal
+89,38.45,116,28,Diseased
+81,39.04,71,12,Highly Diseased
+88,38.29,109,27,Diseased
+90,38.22,110,27,Diseased
+95,37.2,144,48,Normal
+86,39.05,84,16,Highly Diseased
+99,36.78,136,48,Normal
+83,39.1,74,13,Highly Diseased
+93,37.79,100,24,Diseased
+98,36.83,124,45,Normal
+97,37.02,126,57,Normal
+82,38.86,63,14,Highly Diseased
+86,39.53,84,17,Highly Diseased
+86,39.32,64,14,Highly Diseased
+93,38.25,115,28,Diseased
+99,36.73,123,54,Normal
+86,38.62,64,18,Highly Diseased
+92,38.46,101,22,Diseased
+90,37.76,107,24,Diseased
+90,37.8,118,27,Diseased
+92,37.97,116,25,Diseased
+97,37.36,141,37,Normal
+83,38.78,63,11,Highly Diseased
+89,38.25,108,25,Diseased
+88,37.87,116,26,Diseased
+98,37.15,152,35,Normal
+98,37.09,121,53,Normal
+90,37.65,102,27,Diseased
+80,39.77,64,10,Highly Diseased
+91,38.21,102,27,Diseased
+89,38.47,114,23,Diseased
+92,37.96,100,26,Diseased
+88,37.99,104,26,Diseased
+81,39.86,89,18,Highly Diseased
+86,39.99,81,10,Highly Diseased
+90,38.41,115,20,Diseased
+92,38.13,116,23,Diseased
+83,39.88,65,16,Highly Diseased
+80,39.59,97,11,Highly Diseased
+85,39.35,64,14,Highly Diseased
+93,37.84,107,24,Diseased
+92,37.82,111,24,Diseased
+81,39.12,83,11,Highly Diseased
+96,37.3,154,53,Normal
+96,37.33,141,33,Normal
+83,38.67,93,12,Highly Diseased
+96,36.73,132,39,Normal
+88,37.66,113,21,Diseased
+97,37.03,123,42,Normal
+93,38.41,110,23,Diseased
+91,37.8,109,20,Diseased
+95,36.65,122,37,Normal
+96,37.42,157,50,Normal
+92,38.38,100,24,Diseased
+99,36.7,145,54,Normal
+99,36.73,122,36,Normal
+98,37.41,156,37,Normal
+98,37.22,143,30,Normal
+81,39.35,80,12,Highly Diseased
+84,39.2,67,14,Highly Diseased
+97,36.86,137,38,Normal
+93,38.35,114,20,Diseased
+92,37.67,100,27,Diseased
+89,37.72,109,23,Diseased
+85,39.09,72,16,Highly Diseased
+86,39.81,72,14,Highly Diseased
+92,38.07,109,21,Diseased
+82,38.61,74,10,Highly Diseased
+83,39.84,63,16,Highly Diseased
+93,37.79,102,26,Diseased
+99,36.76,126,41,Normal
+96,36.83,130,32,Normal
+81,39.44,61,17,Highly Diseased
+89,37.88,111,22,Diseased
+96,37.43,120,58,Normal
+86,39.76,91,12,Highly Diseased
+95,36.75,141,33,Normal
+83,39.9,86,14,Highly Diseased
+93,38.45,100,20,Diseased
+83,39.4,91,11,Highly Diseased
+93,37.97,113,28,Diseased
+92,37.75,115,26,Diseased
+91,37.91,114,24,Diseased
+82,39.77,96,11,Highly Diseased
+81,38.92,96,11,Highly Diseased
+93,37.81,114,28,Diseased
+90,37.72,117,27,Diseased
+93,38.44,104,21,Diseased
+91,38.38,105,22,Diseased
+88,38.01,100,25,Diseased
+95,37.44,121,32,Normal
+98,37.28,138,31,Normal
+88,38.07,113,24,Diseased
+91,37.92,105,24,Diseased
+90,37.64,113,22,Diseased
+97,36.79,120,33,Normal
+99,37.12,155,36,Normal
+90,37.63,103,22,Diseased
+93,38.14,113,20,Diseased
+84,38.85,76,16,Highly Diseased
+96,36.51,156,55,Normal
+99,36.51,147,36,Normal
+95,36.65,131,53,Normal
+83,39.35,63,17,Highly Diseased
+85,39.86,79,16,Highly Diseased
+92,38.4,100,28,Diseased
+90,37.73,111,22,Diseased
+88,38.01,105,28,Diseased
+81,39.1,98,15,Highly Diseased
+92,37.77,111,28,Diseased
+81,39.69,98,13,Highly Diseased
+84,38.88,68,15,Highly Diseased
+85,39.9,98,14,Highly Diseased
+86,39.75,91,13,Highly Diseased
+98,37.43,147,33,Normal
+83,39.28,60,16,Highly Diseased
+95,36.81,138,54,Normal
+84,39.78,80,17,Highly Diseased
+82,39.09,79,16,Highly Diseased
+89,38.02,117,22,Diseased
+88,38.42,114,22,Diseased
+93,37.68,100,26,Diseased
+88,37.74,100,28,Diseased
+93,38.4,118,27,Diseased
+85,39.08,80,14,Highly Diseased
+91,37.97,103,22,Diseased
+91,37.73,109,20,Diseased
+80,38.99,82,16,Highly Diseased
+82,39.97,95,14,Highly Diseased
+82,39.28,82,17,Highly Diseased
+91,38.15,118,27,Diseased
+91,37.98,118,28,Diseased
+96,36.54,137,39,Normal
+92,37.86,108,28,Diseased
+98,36.95,132,56,Normal
+88,37.7,108,23,Diseased
+95,37.13,155,33,Normal
+93,38.19,103,20,Diseased
+91,38.27,105,28,Diseased
+89,38.08,105,24,Diseased
+91,38.33,113,21,Diseased
+90,37.79,104,24,Diseased
+91,37.61,116,23,Diseased
+82,38.88,73,10,Highly Diseased
+86,39.98,80,16,Highly Diseased
+86,38.95,92,17,Highly Diseased
+85,39.64,97,14,Highly Diseased
+80,39.69,79,11,Highly Diseased
+97,37.16,150,57,Normal
+95,37.34,120,39,Normal
+84,39.38,75,15,Highly Diseased
+92,37.92,101,26,Diseased
+92,38.25,107,24,Diseased
+82,38.81,74,15,Highly Diseased
+83,39.5,89,15,Highly Diseased
+80,38.8,82,12,Highly Diseased
+93,38.42,116,25,Diseased
+98,37.1,147,30,Normal
+84,39.79,89,15,Highly Diseased
+95,37.41,128,52,Normal
+92,38.48,117,23,Diseased
+96,36.69,126,37,Normal
+83,39.52,94,15,Highly Diseased
+92,38.09,106,23,Diseased
+92,37.66,117,24,Diseased
+86,38.88,64,10,Highly Diseased
+85,38.65,87,17,Highly Diseased
+92,37.91,110,28,Diseased
+96,36.93,140,37,Normal
+91,38.5,100,27,Diseased
+85,39.73,65,12,Highly Diseased
+86,38.95,84,11,Highly Diseased
+82,40.0,87,10,Highly Diseased
+83,39.46,79,14,Highly Diseased
+85,39.47,83,12,Highly Diseased
+96,37.01,149,45,Normal
+95,37.47,153,36,Normal
+89,38.41,107,23,Diseased
+95,36.89,157,52,Normal
+80,39.13,63,11,Highly Diseased
+91,37.86,117,20,Diseased
+82,39.3,63,15,Highly Diseased
+80,39.13,92,16,Highly Diseased
+95,37.06,127,31,Normal
+92,37.69,114,24,Diseased
+97,36.8,122,42,Normal
+86,39.99,65,16,Highly Diseased
+99,36.8,124,52,Normal
+99,36.69,142,44,Normal
+91,37.67,100,21,Diseased
+93,38.24,105,21,Diseased
+82,38.82,64,15,Highly Diseased
+83,39.07,93,18,Highly Diseased
+97,36.74,130,46,Normal
+92,38.26,117,21,Diseased
+98,37.42,154,30,Normal
+81,38.67,61,13,Highly Diseased
+95,37.32,157,57,Normal
+80,39.51,72,13,Highly Diseased
+83,39.21,81,16,Highly Diseased
+86,38.63,75,16,Highly Diseased
+81,39.82,98,17,Highly Diseased
+92,37.79,103,23,Diseased
+86,39.3,65,11,Highly Diseased
+83,39.0,65,14,Highly Diseased
+89,38.18,107,25,Diseased
+91,38.24,109,20,Diseased
+97,36.84,126,41,Normal
+95,36.83,126,55,Normal
+93,37.67,117,20,Diseased
+81,38.76,92,11,Highly Diseased
+88,38.25,108,20,Diseased
+92,37.76,104,22,Diseased
+97,36.76,142,30,Normal
+85,39.88,73,18,Highly Diseased
+97,37.37,144,43,Normal
+91,38.16,106,21,Diseased
+97,36.71,141,58,Normal
+97,36.9,131,39,Normal
+96,37.16,136,45,Normal
+91,37.71,116,24,Diseased
+91,38.11,118,20,Diseased
+99,37.12,121,56,Normal
+98,37.07,128,50,Normal
+86,39.35,93,15,Highly Diseased
+98,36.65,125,50,Normal
+91,38.26,110,20,Diseased
+92,38.5,106,28,Diseased
+99,36.74,146,59,Normal
+98,37.23,135,38,Normal
+99,36.61,157,33,Normal
+84,39.52,87,18,Highly Diseased
+89,37.81,115,26,Diseased
+83,39.33,77,15,Highly Diseased
+83,39.84,79,13,Highly Diseased
+96,37.49,146,30,Normal
+80,38.87,72,14,Highly Diseased
+95,36.8,122,58,Normal
+93,37.6,104,22,Diseased
+97,36.74,121,55,Normal
+84,39.65,87,17,Highly Diseased
+91,37.61,109,26,Diseased
+95,36.94,133,35,Normal
+97,36.52,153,39,Normal
+99,36.63,143,50,Normal
+95,37.04,156,30,Normal
+98,36.54,130,31,Normal
+88,37.88,107,28,Diseased
+98,37.39,123,47,Normal
+93,38.42,109,25,Diseased
+95,37.21,123,43,Normal
+89,37.89,109,23,Diseased
+82,39.58,97,17,Highly Diseased
+97,37.46,153,49,Normal
+97,37.44,138,58,Normal
+81,39.57,73,11,Highly Diseased
+84,39.24,73,11,Highly Diseased
+97,36.88,134,56,Normal
+88,38.35,106,21,Diseased
+84,38.61,75,14,Highly Diseased
+81,39.86,76,13,Highly Diseased
+83,39.75,85,15,Highly Diseased
+82,39.13,94,18,Highly Diseased
+91,37.6,102,22,Diseased
+96,36.88,154,51,Normal
+93,38.31,116,28,Diseased
+98,37.29,140,36,Normal
+91,38.26,101,21,Diseased
+91,37.61,116,23,Diseased
+96,36.67,149,53,Normal
+80,38.86,94,14,Highly Diseased
+85,39.98,65,15,Highly Diseased
+93,37.73,101,21,Diseased
+88,38.11,109,21,Diseased
+90,37.67,113,24,Diseased
+95,36.94,120,46,Normal
+98,37.32,120,47,Normal
+98,37.45,156,35,Normal
+88,37.82,103,27,Diseased
+98,37.0,121,34,Normal
+98,36.61,132,37,Normal
+88,38.2,111,28,Diseased
+93,37.91,103,23,Diseased
+90,38.34,103,25,Diseased
+85,38.69,77,16,Highly Diseased
+85,39.94,90,10,Highly Diseased
+97,37.08,132,30,Normal
+81,39.05,97,11,Highly Diseased
+92,37.85,109,27,Diseased
+93,38.05,100,24,Diseased
+88,38.27,116,25,Diseased
+86,38.95,66,18,Highly Diseased
+98,37.15,150,58,Normal
+86,39.85,90,12,Highly Diseased
+90,38.41,101,27,Diseased
+80,39.88,64,13,Highly Diseased
+98,36.5,146,34,Normal
+89,38.17,118,25,Diseased
+99,37.34,136,43,Normal
+84,38.99,73,11,Highly Diseased
+98,37.0,120,40,Normal
+96,37.46,120,51,Normal
+82,39.53,75,10,Highly Diseased
+88,37.8,112,26,Diseased
+86,38.91,83,10,Highly Diseased
+89,37.73,112,22,Diseased
+95,36.77,139,45,Normal
+83,39.7,77,16,Highly Diseased
+88,38.18,117,20,Diseased
+82,39.23,74,14,Highly Diseased
+97,37.22,153,56,Normal
+93,38.01,100,22,Diseased
+82,38.94,67,16,Highly Diseased
+97,37.45,135,34,Normal
+89,38.34,107,21,Diseased
+91,38.3,114,23,Diseased
+97,36.73,121,43,Normal
+86,38.94,90,10,Highly Diseased
+84,39.2,72,17,Highly Diseased
+88,37.83,118,22,Diseased
+82,38.63,60,17,Highly Diseased
+93,37.81,103,23,Diseased
+98,36.6,127,46,Normal
+84,38.86,95,10,Highly Diseased
+93,37.63,115,27,Diseased
+80,38.67,89,17,Highly Diseased
+85,39.65,95,17,Highly Diseased
+80,39.9,73,12,Highly Diseased
+93,38.15,108,27,Diseased
+99,36.87,155,49,Normal
+82,39.55,70,11,Highly Diseased
+86,39.1,78,14,Highly Diseased
+85,38.9,91,17,Highly Diseased
+97,36.69,139,56,Normal
+88,38.1,112,22,Diseased
+82,39.61,95,15,Highly Diseased
+92,37.78,117,22,Diseased
+96,37.48,138,37,Normal
+91,38.47,105,27,Diseased
+83,39.31,74,14,Highly Diseased
+83,39.02,67,14,Highly Diseased
+91,37.72,108,20,Diseased
+96,37.16,121,32,Normal
+98,36.81,120,37,Normal
+86,39.33,69,14,Highly Diseased
+99,36.92,138,59,Normal
+80,39.8,60,14,Highly Diseased
+95,36.68,154,31,Normal
+95,36.94,153,37,Normal
+82,39.8,64,12,Highly Diseased
+88,38.07,117,20,Diseased
+93,37.7,101,23,Diseased
+98,37.01,153,37,Normal
+98,37.34,120,50,Normal
+89,38.18,107,23,Diseased
+95,37.2,155,40,Normal
+86,39.67,60,16,Highly Diseased
+97,37.41,127,52,Normal
+93,37.72,111,20,Diseased
+96,36.55,130,55,Normal
+93,38.0,107,21,Diseased
+80,38.77,68,13,Highly Diseased
+97,37.3,148,42,Normal
+90,38.34,105,22,Diseased
+80,39.44,73,18,Highly Diseased
+88,37.78,103,26,Diseased
+83,39.22,90,17,Highly Diseased
+96,37.14,152,43,Normal
+95,36.68,129,50,Normal
+83,39.11,89,14,Highly Diseased
+96,37.11,152,35,Normal
+89,38.33,103,24,Diseased
+98,36.72,137,56,Normal
+80,39.35,63,12,Highly Diseased
+97,37.38,137,58,Normal
+91,38.19,115,26,Diseased
+91,38.01,111,27,Diseased
+89,37.6,104,27,Diseased
+90,37.96,111,22,Diseased
+81,39.44,95,16,Highly Diseased
+85,39.26,86,16,Highly Diseased
+97,37.46,136,37,Normal
+91,37.81,110,27,Diseased
+95,37.45,154,42,Normal
+96,36.69,156,41,Normal
+90,37.67,107,23,Diseased
+99,37.44,121,39,Normal
+88,37.89,105,21,Diseased
+99,37.43,121,47,Normal
+86,39.76,68,16,Highly Diseased
+89,37.8,104,23,Diseased
+97,37.19,136,45,Normal
+98,37.31,149,55,Normal
+93,37.85,112,26,Diseased
+82,39.2,77,12,Highly Diseased
+90,38.49,109,22,Diseased
+91,38.07,108,25,Diseased
+91,38.15,113,23,Diseased
+80,39.98,90,12,Highly Diseased
+95,37.46,136,43,Normal
+99,37.11,126,59,Normal
+99,36.67,138,30,Normal
+89,37.64,109,25,Diseased
+99,36.65,140,42,Normal
+86,38.69,84,15,Highly Diseased
+89,37.73,108,25,Diseased
+90,38.05,118,28,Diseased
+85,39.05,95,16,Highly Diseased
+99,36.5,143,40,Normal
+84,39.93,73,16,Highly Diseased
+91,38.26,110,22,Diseased
+96,36.6,157,50,Normal
+96,37.48,135,56,Normal
+97,37.07,159,32,Normal
+93,38.43,105,21,Diseased
+96,36.61,153,32,Normal
+83,39.04,70,16,Highly Diseased
+92,37.72,100,21,Diseased
+86,39.95,98,18,Highly Diseased
+92,37.72,108,20,Diseased
+97,37.14,120,32,Normal
+99,37.23,120,48,Normal
+97,37.15,156,58,Normal
+90,38.16,112,25,Diseased
+92,37.85,108,25,Diseased
+90,38.44,101,26,Diseased
+95,37.38,121,55,Normal
+81,38.97,80,12,Highly Diseased
+93,37.69,105,27,Diseased
+84,38.62,90,13,Highly Diseased
+98,37.07,126,33,Normal
+95,36.6,140,57,Normal
+86,38.84,63,17,Highly Diseased
+88,38.48,117,27,Diseased
+96,37.16,151,36,Normal
+93,38.04,100,22,Diseased
+85,39.49,65,17,Highly Diseased
+95,37.34,134,35,Normal
+90,38.32,113,24,Diseased
+92,38.45,118,20,Diseased
+84,39.65,75,13,Highly Diseased
+98,36.79,134,39,Normal
+80,39.83,96,16,Highly Diseased
+80,38.89,77,15,Highly Diseased
+88,38.06,103,24,Diseased
+81,39.47,75,10,Highly Diseased
+93,38.33,117,25,Diseased
+95,36.55,126,56,Normal
+89,37.8,115,20,Diseased
+92,38.35,115,26,Diseased
+97,36.79,150,44,Normal
+99,37.06,133,40,Normal
+96,37.3,145,40,Normal
+85,39.41,95,12,Highly Diseased
+98,37.17,130,56,Normal
+86,39.97,85,10,Highly Diseased
+99,37.24,137,34,Normal
+80,39.18,60,14,Highly Diseased
+83,39.02,88,10,Highly Diseased
+82,39.94,85,18,Highly Diseased
+97,36.54,155,59,Normal
+95,36.76,152,48,Normal
+91,38.42,115,22,Diseased
+98,37.23,137,53,Normal
+84,39.01,87,15,Highly Diseased
+80,38.97,85,10,Highly Diseased
+95,37.26,147,40,Normal
+90,38.12,114,26,Diseased
+99,37.23,146,45,Normal
+95,37.13,137,49,Normal
+86,39.17,63,11,Highly Diseased
+89,38.32,113,27,Diseased
+82,39.17,93,17,Highly Diseased
+90,37.76,117,25,Diseased
+89,37.63,114,25,Diseased
+86,38.9,73,11,Highly Diseased
+85,39.94,86,18,Highly Diseased
+91,38.4,101,20,Diseased
+95,36.97,137,54,Normal
+96,36.81,130,34,Normal
+98,37.23,136,56,Normal
+90,37.81,104,23,Diseased
+99,37.37,147,36,Normal
+82,39.65,91,16,Highly Diseased
+90,37.9,117,22,Diseased
+96,36.66,131,38,Normal
+92,38.44,105,20,Diseased
+95,37.25,141,59,Normal
+91,38.38,113,25,Diseased
+91,38.46,105,26,Diseased
+90,38.38,102,24,Diseased
+96,36.53,125,36,Normal
+85,39.57,66,10,Highly Diseased
+83,39.87,67,13,Highly Diseased
+86,39.01,64,13,Highly Diseased
+85,39.54,72,15,Highly Diseased
+93,38.11,100,24,Diseased
+97,37.0,130,43,Normal
+92,38.44,104,28,Diseased
+88,38.36,100,26,Diseased
+91,38.45,109,24,Diseased
+93,38.45,101,25,Diseased
+97,36.53,150,55,Normal
+92,38.22,101,25,Diseased
+92,38.38,115,23,Diseased
+88,38.5,114,21,Diseased
+85,39.62,65,17,Highly Diseased
+90,37.97,112,21,Diseased
+96,37.43,155,54,Normal
+86,39.7,92,10,Highly Diseased
+81,39.83,78,11,Highly Diseased
+98,36.54,134,36,Normal
+84,39.57,68,16,Highly Diseased
+97,36.82,151,58,Normal
+96,37.41,124,42,Normal
+82,39.86,96,14,Highly Diseased
+97,37.17,129,55,Normal
+85,39.57,75,14,Highly Diseased
+91,38.21,106,22,Diseased
+89,38.41,105,28,Diseased
+97,36.98,132,50,Normal
+99,37.26,138,35,Normal
+88,37.72,100,26,Diseased
+97,36.59,138,54,Normal
+95,36.67,144,43,Normal
+99,37.16,159,31,Normal
+80,39.41,90,15,Highly Diseased
+83,39.68,81,10,Highly Diseased
+97,37.24,156,58,Normal
+88,37.87,106,25,Diseased
+80,39.45,69,18,Highly Diseased
+81,39.43,75,12,Highly Diseased
+96,37.01,158,39,Normal
+95,36.83,148,46,Normal
+80,39.71,60,16,Highly Diseased
+95,37.13,131,36,Normal
+95,37.26,136,54,Normal
+81,39.91,86,15,Highly Diseased
+85,38.62,77,17,Highly Diseased
+98,36.56,144,56,Normal
+90,38.12,117,24,Diseased
+92,37.88,100,21,Diseased
+86,39.09,65,16,Highly Diseased
+99,36.71,151,58,Normal
+96,36.72,141,47,Normal
+88,37.98,101,28,Diseased
+91,38.15,112,21,Diseased
+95,36.89,141,49,Normal
+89,38.06,113,24,Diseased
+95,36.52,147,58,Normal
+83,39.04,92,15,Highly Diseased
+88,37.61,113,27,Diseased
+84,39.17,92,17,Highly Diseased
+86,39.91,89,14,Highly Diseased
+96,37.05,125,54,Normal
+80,39.81,92,11,Highly Diseased
+97,36.73,151,43,Normal
+80,39.31,66,11,Highly Diseased
+96,36.88,144,44,Normal
+86,39.54,74,15,Highly Diseased
+88,38.17,109,28,Diseased
+95,36.89,145,34,Normal
+97,37.36,151,57,Normal
+83,39.21,88,12,Highly Diseased
+80,39.33,65,11,Highly Diseased
+89,38.15,114,23,Diseased
+86,38.75,74,11,Highly Diseased
+97,36.94,140,47,Normal
+85,38.73,71,11,Highly Diseased
+82,38.72,98,12,Highly Diseased
+95,37.3,146,49,Normal
+92,37.91,113,20,Diseased
+88,38.46,106,25,Diseased
+98,36.73,142,33,Normal
+83,39.75,68,17,Highly Diseased
+92,38.27,112,21,Diseased
+99,36.71,153,54,Normal
+98,36.85,150,31,Normal
+98,36.91,156,39,Normal
+95,37.1,151,46,Normal
+99,37.25,155,54,Normal
+97,36.85,139,45,Normal
+81,39.98,77,14,Highly Diseased
+92,37.63,114,25,Diseased
+98,36.92,121,43,Normal
+90,37.95,117,25,Diseased
+99,37.33,120,32,Normal
+80,39.8,75,16,Highly Diseased
+99,37.35,125,48,Normal
+92,38.13,105,24,Diseased
+84,39.41,86,16,Highly Diseased
+90,38.18,102,25,Diseased
+93,38.32,106,23,Diseased
+98,36.51,126,53,Normal
+92,38.41,100,27,Diseased
+96,37.47,153,48,Normal
+96,37.3,127,59,Normal
+81,38.83,98,11,Highly Diseased
+84,39.46,81,13,Highly Diseased
+92,37.89,106,24,Diseased
+99,36.71,140,56,Normal
+83,39.04,73,17,Highly Diseased
+85,38.81,65,16,Highly Diseased
+91,38.07,108,26,Diseased
+89,38.01,100,28,Diseased
+95,37.09,149,48,Normal
+99,36.89,133,39,Normal
+97,37.06,150,49,Normal
+92,38.06,112,20,Diseased
+89,38.49,118,28,Diseased
+97,36.82,148,42,Normal
+98,37.09,137,47,Normal
+83,39.07,65,13,Highly Diseased
+89,38.4,118,28,Diseased
+96,36.84,133,45,Normal
+93,37.73,112,22,Diseased
+90,38.25,115,21,Diseased
+89,38.46,113,21,Diseased
+86,39.16,72,13,Highly Diseased
+96,36.58,140,55,Normal
+95,37.21,141,40,Normal
+88,37.71,113,22,Diseased
+91,38.2,118,24,Diseased
+99,36.87,151,59,Normal
+93,37.95,114,20,Diseased
+84,39.9,97,13,Highly Diseased
+93,38.04,118,23,Diseased
+91,38.04,104,28,Diseased
+86,39.41,76,14,Highly Diseased
+95,37.48,154,45,Normal
+88,38.24,115,21,Diseased
+81,39.87,60,11,Highly Diseased
+83,39.71,67,18,Highly Diseased
+88,37.9,111,26,Diseased
+96,37.01,126,45,Normal
+82,39.04,65,15,Highly Diseased
+95,37.28,133,49,Normal
+82,39.49,68,15,Highly Diseased
+97,37.3,141,48,Normal
+98,36.71,150,45,Normal
+93,38.31,118,26,Diseased
+90,38.37,108,28,Diseased
+90,38.4,102,23,Diseased
+98,36.71,143,51,Normal
+86,39.81,89,18,Highly Diseased
+96,36.83,148,49,Normal
+95,37.49,122,37,Normal
+95,37.45,157,39,Normal
+80,39.08,91,11,Highly Diseased
+98,36.77,155,42,Normal
+89,38.28,115,26,Diseased
+97,37.15,159,45,Normal
+93,38.04,118,25,Diseased
+90,37.84,100,27,Diseased
+90,38.48,106,23,Diseased
+80,39.19,80,13,Highly Diseased
+95,36.99,147,31,Normal
+91,37.87,115,23,Diseased
+86,38.72,98,13,Highly Diseased
+81,39.99,81,15,Highly Diseased
+88,38.35,104,20,Diseased
+98,37.46,139,43,Normal
+91,38.18,104,22,Diseased
+92,37.61,106,23,Diseased
+97,36.7,138,38,Normal
+80,39.33,91,17,Highly Diseased
+91,37.64,111,27,Diseased
+95,37.37,127,43,Normal
+80,38.82,83,11,Highly Diseased
+86,39.99,70,16,Highly Diseased
+91,38.15,106,20,Diseased
+96,37.09,136,31,Normal
+97,37.13,158,56,Normal
+93,38.11,113,22,Diseased
+80,39.88,81,16,Highly Diseased
+84,39.12,75,12,Highly Diseased
+88,37.7,117,26,Diseased
+95,37.28,141,45,Normal
+96,37.47,159,53,Normal
+93,37.73,102,21,Diseased
+83,39.19,98,18,Highly Diseased
+85,39.7,96,10,Highly Diseased
+89,38.07,118,24,Diseased
+83,38.73,65,14,Highly Diseased
+97,36.8,141,33,Normal
+91,37.98,117,28,Diseased
+82,39.45,84,13,Highly Diseased
+81,39.27,62,16,Highly Diseased
+92,37.86,100,27,Diseased
+91,37.7,112,25,Diseased
+83,39.34,71,12,Highly Diseased
+92,38.28,101,25,Diseased
+82,39.97,79,10,Highly Diseased
+92,38.23,116,24,Diseased
+81,39.21,70,15,Highly Diseased
+86,39.52,78,16,Highly Diseased
+98,37.09,158,41,Normal
+95,37.3,128,35,Normal
+89,37.74,109,24,Diseased
+88,38.02,104,23,Diseased
+96,37.28,150,49,Normal
+83,38.86,92,14,Highly Diseased
+92,38.11,117,28,Diseased
+98,37.46,133,54,Normal
+97,36.65,154,43,Normal
+93,37.98,114,21,Diseased
+97,36.54,129,45,Normal
+96,37.45,156,57,Normal
+96,37.04,157,57,Normal
+90,37.72,104,28,Diseased
+80,39.9,70,12,Highly Diseased
+95,36.75,157,57,Normal
+90,38.14,104,20,Diseased
+98,37.12,135,38,Normal
+91,38.45,105,26,Diseased
+80,38.63,63,13,Highly Diseased
+83,39.67,88,16,Highly Diseased
+88,38.44,116,24,Diseased
+90,37.95,101,21,Diseased
+99,36.79,158,46,Normal
+95,37.47,122,48,Normal
+90,38.11,117,21,Diseased
+86,38.67,71,13,Highly Diseased
+82,38.84,72,16,Highly Diseased
+93,38.36,102,21,Diseased
+98,36.72,147,39,Normal
+97,36.93,138,54,Normal
+84,39.53,92,16,Highly Diseased
+83,39.3,73,14,Highly Diseased
+96,37.05,149,58,Normal
+86,39.16,79,13,Highly Diseased
+81,38.97,86,14,Highly Diseased
+80,38.97,65,10,Highly Diseased
+92,38.38,100,24,Diseased
+89,38.07,117,24,Diseased
+91,38.43,117,25,Diseased
+86,39.16,75,14,Highly Diseased
+83,38.65,65,13,Highly Diseased
+97,36.67,120,37,Normal
+90,38.09,113,21,Diseased
+88,38.17,107,27,Diseased
+83,38.78,63,15,Highly Diseased
+80,39.21,79,14,Highly Diseased
+98,36.54,151,44,Normal
+81,39.42,97,14,Highly Diseased
+88,37.92,103,28,Diseased
+97,36.97,147,30,Normal
+95,37.41,148,56,Normal
+80,39.18,62,18,Highly Diseased
+98,37.07,121,56,Normal
+88,38.25,115,22,Diseased
+80,39.37,72,14,Highly Diseased
+88,38.46,104,24,Diseased
+98,37.18,147,35,Normal
+85,39.9,70,13,Highly Diseased
+91,37.83,109,25,Diseased
+80,39.33,76,13,Highly Diseased
+80,39.44,84,12,Highly Diseased
+95,36.81,120,37,Normal
+91,37.86,106,20,Diseased
+95,37.41,153,36,Normal
+80,39.89,68,14,Highly Diseased
+82,38.91,88,10,Highly Diseased
+86,39.92,72,11,Highly Diseased
+96,37.15,122,52,Normal
+80,39.3,79,15,Highly Diseased
+97,36.91,151,45,Normal
+93,38.3,104,21,Diseased
+91,38.03,111,28,Diseased
+95,36.69,148,39,Normal
+91,38.24,107,26,Diseased
+88,38.02,101,24,Diseased
+98,37.43,146,53,Normal
+93,37.96,108,27,Diseased
+88,38.15,114,22,Diseased
+98,36.7,120,55,Normal
+91,38.26,101,21,Diseased
+99,36.84,120,32,Normal
+80,39.89,89,17,Highly Diseased
+84,39.54,89,14,Highly Diseased
+86,38.7,95,11,Highly Diseased
+80,39.77,60,13,Highly Diseased
+96,36.75,134,34,Normal
+93,37.96,105,23,Diseased
+92,37.67,108,24,Diseased
+83,39.71,69,12,Highly Diseased
+81,39.41,77,15,Highly Diseased
+99,36.71,122,49,Normal
+83,39.17,96,12,Highly Diseased
+99,36.85,155,37,Normal
+83,39.2,63,13,Highly Diseased
+93,38.18,102,28,Diseased
+89,38.28,112,24,Diseased
+91,37.92,116,28,Diseased
+95,36.97,128,38,Normal
+88,37.71,104,24,Diseased
+81,39.41,81,11,Highly Diseased
+90,38.01,111,28,Diseased
+97,36.82,158,38,Normal
+97,37.19,154,57,Normal
+98,36.62,121,51,Normal
+90,38.4,101,20,Diseased
+86,38.73,95,11,Highly Diseased
+93,38.09,105,23,Diseased
+82,38.7,77,16,Highly Diseased
+89,38.02,116,26,Diseased
+86,38.77,96,10,Highly Diseased
+99,36.86,128,36,Normal
+85,38.87,87,12,Highly Diseased
+99,37.16,146,31,Normal
+99,36.95,128,48,Normal
+95,37.24,150,40,Normal
+99,37.32,131,55,Normal
+95,37.35,152,59,Normal
+90,37.86,100,25,Diseased
+93,37.65,107,21,Diseased
+88,38.15,104,23,Diseased
+98,36.51,139,33,Normal
+98,37.0,126,37,Normal
+91,37.85,103,28,Diseased
+93,38.49,109,20,Diseased
+91,37.74,112,22,Diseased
+93,38.43,101,26,Diseased
+97,37.37,131,39,Normal
+89,37.89,105,21,Diseased
+96,36.94,149,52,Normal
+97,36.97,154,36,Normal
+84,38.88,95,17,Highly Diseased
+91,38.33,106,24,Diseased
+93,37.87,102,26,Diseased
+89,38.5,108,27,Diseased
+91,38.31,104,26,Diseased
+90,37.87,114,22,Diseased
+80,39.37,69,14,Highly Diseased
+82,39.26,84,12,Highly Diseased
+91,37.64,103,24,Diseased
+81,39.97,86,18,Highly Diseased
+97,36.91,146,39,Normal
+84,39.46,83,16,Highly Diseased
+86,38.93,73,11,Highly Diseased
+88,38.1,111,25,Diseased
+88,38.06,113,28,Diseased
+85,39.71,72,15,Highly Diseased
+96,36.64,147,36,Normal
+93,38.12,110,24,Diseased
+81,38.97,71,13,Highly Diseased
+99,36.76,154,47,Normal
+80,38.77,89,12,Highly Diseased
+92,38.41,118,27,Diseased
+95,37.29,133,41,Normal
+98,37.45,145,42,Normal
+86,38.76,95,11,Highly Diseased
+91,37.8,113,26,Diseased
+97,37.22,125,49,Normal
+83,38.67,63,14,Highly Diseased
+80,38.64,92,16,Highly Diseased
+86,39.81,83,13,Highly Diseased
+96,37.07,120,40,Normal
+91,38.04,112,21,Diseased
+93,38.43,107,25,Diseased
+86,38.83,66,16,Highly Diseased
+80,39.61,84,11,Highly Diseased
+80,38.73,81,11,Highly Diseased
+96,37.26,128,41,Normal
+91,37.93,106,26,Diseased
+81,39.09,80,17,Highly Diseased
+83,39.05,71,18,Highly Diseased
+80,38.77,85,18,Highly Diseased
+81,39.15,69,11,Highly Diseased
+90,38.0,104,21,Diseased
+96,36.77,155,35,Normal
+90,38.23,114,24,Diseased
+84,39.31,89,12,Highly Diseased
+88,38.31,103,22,Diseased
+84,38.97,97,18,Highly Diseased
+93,38.23,109,25,Diseased
+80,39.08,66,15,Highly Diseased
+81,39.92,88,15,Highly Diseased
+82,39.16,71,18,Highly Diseased
+97,37.49,148,30,Normal
+82,39.28,81,13,Highly Diseased
+84,38.91,85,15,Highly Diseased
+86,39.71,94,16,Highly Diseased
+99,36.89,154,58,Normal
+99,37.17,133,47,Normal
+88,38.37,105,22,Diseased
+85,39.22,97,10,Highly Diseased
+81,39.66,62,11,Highly Diseased
+90,38.15,110,23,Diseased
+84,39.72,60,16,Highly Diseased
+97,36.91,148,59,Normal
+92,38.07,106,28,Diseased
+96,37.17,121,32,Normal
+89,38.23,109,25,Diseased
+95,37.07,137,36,Normal
+89,38.34,108,23,Diseased
+97,37.05,130,41,Normal
+90,37.69,108,21,Diseased
+93,37.89,108,22,Diseased
+93,38.24,115,20,Diseased
+85,39.0,74,11,Highly Diseased
