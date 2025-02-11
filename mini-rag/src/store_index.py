@@ -5,6 +5,7 @@ from src.build_vectordb import VectorDBBuilder
 from src.helpers.config import get_settings
 
 settings = get_settings()
+os.environ["PINECONE_API_KEY"] = settings.PINECONE_API_KEY
 PINECONE_API_KEY = settings.PINECONE_API_KEY
 index_name = settings.PINECONE_INDEX_NAME
 
