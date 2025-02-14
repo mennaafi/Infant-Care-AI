@@ -13,14 +13,12 @@ CLIENT = InferenceHTTPClient(
     api_key=api_key
 )
 
-image_path = "sample_test\img4.jpg"
+image_path = "sample\img.jpg"
 image = cv2.imread(image_path)
 result = CLIENT.infer(image, model_id="sudden-infant-death-syndrome/3")
 print(result)
 
-
-
-output_dir = "results"
+output_dir = "runs"
 output_file = os.path.join(output_dir, "detection_result.json")
 with open(output_file, "w") as f:
     json.dump(result, f, indent=4)

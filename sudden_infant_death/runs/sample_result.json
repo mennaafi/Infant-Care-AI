@@ -1,0 +1,20 @@
+{
+    "inference_id": "ae44ddd2-96b4-4eec-8ed4-0fdab714494e",
+    "time": 0.07941086800019548,
+    "image": {
+        "width": 275,
+        "height": 183
+    },
+    "predictions": [
+        {
+            "x": 151.5,
+            "y": 93.5,
+            "width": 145.0,
+            "height": 179.0,
+            "confidence": 0.5701634883880615,
+            "class": "baby-lying-on-back",
+            "class_id": 0,
+            "detection_id": "d850c98c-0029-4a18-8293-a0b2cc69c489"
+        }
+    ]
+}
