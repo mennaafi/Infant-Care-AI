@@ -1,4 +1,5 @@
 from fastapi import APIRouter
+from pydantic import BaseModel
 from src.llm import get_response
 
 chat_router = APIRouter(
@@ -6,7 +7,10 @@ chat_router = APIRouter(
     tags=["chat"],
 )
 
-@chat_router.get("/chat")
-async def chat(query: str):
-    response = get_response(query)
+class ChatRequest(BaseModel):
+    query: str
+
+@chat_router.post("/chat")
+async def chat(request: ChatRequest):
+    response = get_response(request.query)
     return {"response": response}
